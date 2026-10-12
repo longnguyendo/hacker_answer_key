@@ -6,13 +6,13 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 
 > Part 2 is audio-only (questions and choices are spoken, not printed), so only the answer key letter is available.
 
-| Q | Ans | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
-|---|---|---|---|---|---|---|---|---|---|
-| 7 | C | 8 | B | 9 | B | 10 | B | 11 | C |
-| 12 | B | 13 | A | 14 | B | 15 | A | 16 | C |
-| 17 | B | 18 | A | 19 | B | 20 | A | 21 | B |
-| 22 | A | 23 | C | 24 | C | 25 | B | 26 | B |
-| 27 | A | 28 | B | 29 | A | 30 | C | 31 | B |
+| Q  | Ans | Q  | Ans | Q  | Ans | Q  | Ans | Q  | Ans |
+| -- | --- | -- | --- | -- | --- | -- | --- | -- | --- |
+| 7  | C   | 8  | B   | 9  | B   | 10 | B   | 11 | C   |
+| 12 | B   | 13 | A   | 14 | B   | 15 | A   | 16 | C   |
+| 17 | B   | 18 | A   | 19 | B   | 20 | A   | 21 | B   |
+| 22 | A   | 23 | C   | 24 | C   | 25 | B   | 26 | B   |
+| 27 | A   | 28 | B   | 29 | A   | 30 | C   | 31 | B   |
 
 ## Part 3 — Conversations (Q32–70)
 
@@ -111,7 +111,6 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **100.** According to the speaker, what will half of the money raised by ticket sales be used for? → **(A)** Supporting a local organization
 
 ## Part 7 — Reading (Q147–200)
-
 
 **Questions 147–148 — notice**
 
