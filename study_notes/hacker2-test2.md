@@ -6,19 +6,19 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 
 > Part 2 is audio-only (questions and choices are spoken, not printed), so only the answer key letter is available.
 
-| Q | Ans | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
-|---|---|---|---|---|---|---|---|---|---|
-| 7 | A | 8 | C | 9 | C | 10 | B | 11 | A |
-| 12 | C | 13 | B | 14 | A | 15 | B | 16 | A |
-| 17 | C | 18 | B | 19 | C | 20 | B | 21 | A |
-| 22 | B | 23 | A | 24 | C | 25 | A | 26 | C |
-| 27 | C | 28 | A | 29 | B | 30 | B | 31 | C |
+| Q  | Ans | Q  | Ans | Q  | Ans | Q  | Ans | Q  | Ans |
+| -- | --- | -- | --- | -- | --- | -- | --- | -- | --- |
+| 7  | A   | 8  | C   | 9  | C   | 10 | B   | 11 | A   |
+| 12 | C   | 13 | B   | 14 | A   | 15 | B   | 16 | A   |
+| 17 | C   | 18 | B   | 19 | C   | 20 | B   | 21 | A   |
+| 22 | B   | 23 | A   | 24 | C   | 25 | A   | 26 | C   |
+| 27 | C   | 28 | A   | 29 | B   | 30 | B   | 31 | C   |
 
 ## Part 3 — Conversations (Q32–70)
 
 - **32.** What event is taking place? → **(C)** A charity function
 - **33.** What information does the man ask the woman for? → **(A)** Her company's name
-- **34.** What will the man most likely do next? → **(D)** Escort a guest
+- **34.** What will the man most likely do next? → **(D)** Escort a guest ( Đưa khách đến )
 
 - **35.** What are the speakers mainly discussing? → **(D)** A company regulation
 - **36.** What is implied about Samantha? → **(B)** She doesn't work in the technology department.
@@ -111,7 +111,6 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **100.** What will happen next? → **(A)** A report will be distributed.
 
 ## Part 7 — Reading (Q147–200)
-
 
 **Questions 147–148 — form**
 
