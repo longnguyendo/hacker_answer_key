@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Who most likely are the speakers? → **(D)** Landscapers
 - **33.** What does the man want to do first? → **(A)** Prepare the ground for plants
 - **34.** What problem does the man mention? → **(A)** A cart was left behind.
-
+- 
 - **35.** What is the woman trying to find? → **(D)** Some hooks
 - **36.** Why does the woman reject an offer? → **(C)** She knows where some items are stocked.
 - **37.** According to the man, how can the woman get more information? → **(D)** By using a device
-
+- 
 - **38.** Where does the conversation take place? → **(B)** At a sports arena
 - **39.** What is the purpose of the man's visit? → **(A)** To view changes to a facility
 - **40.** What does the woman say about VIP guests? → **(D)** They will have access to a special section.
-
+- 
 - **41.** What problem does the man mention? → **(A)** A list has been misplaced.
 - **42.** What does the woman suggest? → **(C)** Using a database
 - **43.** Why does the man say, "I was in Richmond"? → **(C)** To explain his absence
-
+- 
 - **44.** Who most likely is,the woman? → **(B)** A salesperson
 - **45.** According to the woman, what is a feature of the product? → **(A)** It can move itself.
 - **46.** What will most likely happen next? → **(C)** A device will be used.
-
+- 
 - **47.** What is the problem? → **(B)** A drink has been spilled.
 - **48.** What solution does the woman suggest? → **(A)** Talking to a personnel member
 - **49.** Why will the woman be unable to use the swimming pool? → **(B)** A performance has been scheduled.
-
+- 
 - **50.** According to the man, why does the woman require some information? → **(A)** To prepare a notification
 - **51.** What does the man say riders can do online? → **(D)** Add money to a card
 - **52.** What did the woman forget about? → **(C)** A temporary closure
-
+- 
 - **53.** What is mentioned about Mr. Marquez? → **(B)** He moved to a new position.
 - **54.** What will most likely happen on November third? → **(B)** Some employees will listen to a lecture.
 - **55.** What is the man concerned about? → **(C)** A scheduling conflict
-
+- 
 - **56.** What is the woman planning to do next week? → **(A)** Entertain some visitors
 - **57.** What does the man recommend the woman do? → **(D)** Arrange for a boat ride
 - **58.** What does the man mention about some local businesses? → **(B)** They offer reasonably priced rentals.
-
+- 
 - **59.** Why is the woman calling? → **(B)** To notify the man of a problem
 - **60.** What does the woman want the man to do? → **(C)** Relocate a vehicle
 - **61.** Why does the man say, "I'll be at work until 5 P.M."? → **(D)** He cannot carry out a task immediately.
-
+- 
 - **62.** What did the woman do last month? → **(B)** Bought a hair product
 - **63.** Look at the graphic. What discount will the woman most likely receive today? → **(D)** 10 percent off
 - **64.** According to the man, what will happen on April 20? → **(A)** An exhibition will be held.
-
+- 
 - **65.** What does the woman offer to do? → **(C)** Purchase some refreshments
 - **66.** According to the woman, what happened last week? → **(D)** A storm created poor conditions.
 - **67.** Look at the graphic. Where does the woman suggest taking a break? → **(B)** At Rest Area B
-
+- 
 - **68.** What does the man imply about the jackets? → **(A)** They will be featured in a publication.
 - **69.** Look at the graphic. When did the woman receive a discount coupon? → **(B)** On August 12
 - **70.** According to the woman, what happened earlier today? → **(D)** A gathering with the media
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Why is the speaker calling? → **(D)** To report a problem
 - **72.** What will most likely happen on Friday? → **(A)** An order will be sent.
 - **73.** What does the speaker offer to do? → **(C)** Reduce a charge
-
+- 
 - **74.** Where do the listeners most likely work? → **(B)** At a medical clinic
 - **75.** Why does the speaker say, "we don't know ® who has an appointment tomorrow"? → **(C)** To emphasize the urgency of a task
 - **76.** What does the speaker mention about Janet Lee? → **(C)** She will distribute a document.
-
+- 
 - **77.** Who most likely is the speaker? → **(D)** A realtor
 - **78.** What does the speaker imply when she says, "few people have shown interest"? → **(A)** A request cannot be granted.
 - **79.** When will the listener most likely meet Mr. Patterson? → **(C)** On Saturday
-
+- 
 - **80.** According to the speaker, what type of event did the CEO arrange? → **(D)** A corporate retreat
 - **81.** What are listeners expected to do over the next few days? → **(B)** Participate in group activities
 - **82.** Why must listeners meet at 4 P.M.? → **(A)** To pose for a photograph
-
+- 
 - **83.** What sector does the speaker represent? → **(C)** Education
 - **84.** What is scheduled to take place next month? → **(B)** A career information session
 - **85.** According to the speaker, what would a representative need to do? → **(A)** Describe the nature of a position
-
+- 
 - **86.** What did the city council do? → **(C)** Decided to demolish a building
 - **87.** Who is John Hamilton? → **(A)** A government official
 - **88.** What will happen on Friday? → **(C)** A meeting will be held.
-
+- 
 - **89.** What task have the listeners been assigned? → **(B)** Determining how to target foreign visitors
 - **90.** What does the speaker say about the snow sculptures? → **(C)** They are popular among attendees.
 - **91.** What will the listeners do in 30 minutes? → **(A)** Take a break
-
+- 
 - **92.** Who most likely are the listeners? → **(D)** Customer service agents
 - **93.** What will most likely happen next? → **(A)** A demonstration will be given.
 - **94.** Why does the speaker say, "You may be surprised by the results"? → **(C)** To indicate that a method is effective
-
+- 
 - **95.** What does the speaker mention about Jeff Wallace? → **(C)** He was the owner of a company.
 - **96.** According to the speaker, what might some callers receive? → **(C)** An airline ticket
 - **97.** Look at the graphic. Which show will be replaced? → **(B)** Culture Break
-
+- 
 - **98.** What did the speaker do last week? → **(B)** Met with a customer
 - **99.** Look at the graphic. How much will the woman be refunded? → **(D)** £25.00
 - **100.** What does the speaker request be sent to her? → **(A)** Promotional materials

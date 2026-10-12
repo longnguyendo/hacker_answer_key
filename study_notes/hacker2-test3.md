@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Where most likely does the woman work? → **(A)** At a frame shop
 - **33.** What is the problem? → **(D)** An item is not ready yet.
 - **34.** When will the man most likely visit the business? → **(C)** Tomorrow evening
-
+- 
 - **35.** Who most likely is the man? → **(C)** A salesperson
 - **36.** What does the woman want to do? → **(D)** Select a present
 - **37.** What is mentioned about the Tide EX? → **(C)** It can be used without a cable.
-
+- 
 - **38.** What is the purpose of the call? → **(C)** To discuss a replacement
 - **39.** Who most likely is Richard Hammel? → **(B)** A copywriter
 - **40.** What does the woman ask the man to do? → **(D)** Take part in a conversation
-
+- 
 - **41.** Where most likely does the man work? → **(B)** At an accommodation facility
 - **42.** What does the man mean when he says, lljl "Actually, I'm not supposed to"? → **(D)** He cannot complete a registration process.
 - **43.** What is indicated in the brochure? → **(A)** Departure times
-
+- 
 - **44.** Who most likely is the man? → **(A)** A division head
 - **45.** What did the woman do last year? → **(C)** Purchased instructional materials
 - **46.** How will the woman share the files? → **(B)** By uploading them to a site
-
+- 
 - **47.** Why does the woman want to place an order? → **(C)** Some items are in short supply.
 - **48.** What does the man mean when he says, "I've got good news for you"? → **(A)** A special deal is available.
 - **49.** What does the woman say she will do? → **(C)** Pass on some information
-
+- 
 - **50.** Why is the woman calling? → **(B)** To check the status of a rental space
 - **51.** According to the man, why has a task been delayed? → **(B)** An employee made an incorrect purchase.
 - **52.** What does the man imply about the apartment? → **(D)** It will be prepared by a move-in date.
-
+- 
 - **53.** Where do the speakers most likely work? → **(C)** At a light bulb manufacturer
 - **54.** Why does the woman reject the man's first slogan idea? → **(D)** It lacks the proper emphasis.
 - **55.** What does the woman suggest? → **(B)** Seeking feedback from a boss
-
+- 
 - **56.** What does the man give the woman? → **(D)** A banner design
 - **57.** Why does the woman say, "one with a blue and green stripe along the bottom"? → **(C)** To confirm a past order
 - **58.** What will the woman most likely do next? → **(B)** Perform a demonstration
-
+- 
 - **59.** What does the man say about the brochure? → **(B)** It needs a minor change.
 - **60.** What does the woman offer to do? → **(C)** Provide a paper copy
 - **61.** What will the man probably do before lunch? → **(D)** See a physician
-
+- 
 - **62.** What will happen this Friday? → **(C)** An exhibition will be held.
 - **63.** What does Ellen offer to do? → **(D)** Give a voucher
 - **64.** What is mentioned about Harris Kitchen? → **(A)** It is close to a gallery.
-
+- 
 - **65.** What did the woman do last I hursday? → **(C)** Sent in a record of hours
 - **66.** What problem does the man mention? → **(B)** A monthly amount was exceeded.
 - **67.** Look at the graphic. Which extension will the woman probably call? → **(A)** 2341
-
+- 
 - **68.** Why does the man want to hold a meeting? → **(D)** To go over a future project
 - **69.** Look at the graphic. Which topic will the man address? → **(B)** Being professional
 - **70.** What will the woman probably do in the afternoon? → **(B)** Post a message on a Web site
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Why is traffic heavy on the Bayport Bridge? → **(A)** An accident has occurred.
 - **72.** When will traffic in the city return to normal? → **(D)** In two hours
 - **73.** What does the speaker suggest? → **(D)** Utilizing public transportation
-
+- 
 - **74.** Who most likely is the speaker? → **(C)** A course instructor
 - **75.** What benefit does the speaker mention? → **(B)** A free consultation
 - **76.** What does the speaker request that listeners do? → **(D)** Sign in to a computer network
-
+- 
 - **77.** Why is the speaker calling? → **(C)** To request some information
 - **78.** What can be inferred about Ms. Hollandale? → **(A)** She takes photos professionally.
 - **79.** What is the speaker currently unable to do? → **(D)** Submit some paperwork
-
+- 
 - **80.** What is being advertised? → **(C)** A sporting goods store
 - **81.** Why does the speaker say, "No questions HI asked"? → **(B)** To emphasize an aspect of a policy
 - **82.** How long can customers use rental equipment? → **(B)** For one week
-
+- 
 - **83.** What is the purpose of the talk? → **(D)** To provide instructions to volunteers
 - **84.** What does the speaker mean when she says, "the park is quite large"? → **(B)** A task will take a while to complete.
 - **85.** What does the speaker offer to do? → **(C)** Hand out some supplies
-
+- 
 - **86.** What is the main topic of the report? → **(C)** The merger of two companies
 - **87.** Who most likely is Donald Parker? → **(D)** A corporate executive
 - **88.** According to the speaker, what will Harvest Supermarkets do this year? → **(A)** Open several new locations
-
+- 
 - **89.** Who most likely is Oscar Juan? → **(B)** An artist
 - **90.** When is the exhibit scheduled to begin? → **(C)** October 3
 - **91.** What will the listeners most likely do next? → **(C)** Watch a presentation
-
+- 
 - **92.** Where does the speaker work? → **(B)** At a hotel
 - **93.** What does the speaker offer to do? → **(D)** Provide a complimentary upgrade
 - **94.** Look at the graphic. Which exit does the jll shuttle bus stop at? → **(C)** Exit 3
-
+- 
 - **95.** Look at the graphic. When was the new refrigerator model released? → **(D)** July
 - **96.** What did the speaker do yesterday? → **(A)** Talked with executives
 - **97.** What will most likely happen on Friday? → **(B)** A team meeting will be held.
-
+- 
 - **98.** Why did the listener travel to London? → **(B)** To attend a technology fair
 - **99.** Look at the graphic. Which transaction does the speaker want to discuss? → **(B)** 00321
 - **100.** What is the listener asked to do? → **(A)** Visit an office

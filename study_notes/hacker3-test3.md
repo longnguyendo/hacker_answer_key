@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Who most likely are the speakers? → **(B)** Event planners
 - **33.** What is mentioned about the Silkwood Hotel? → **(D)** It will hold a promotion.
 - **34.** What does the man ask the woman to do? → **(D)** Send an e-mail
-
+- 
 - **35.** Where most likely do the speakers work? → **(C)** At a furniture retailer
 - **36.** Why is the man worried? → **(A)** More vehicles may be required.
 - **37.** What does the woman ask for? → **(A)** An electronic device
-
+- 
 - **38.** What is the conversation mainly about? → **(D)** A customer survey
 - **39.** What does the woman recommend? → **(B)** Training some staff
 - **40.** What did the man do last week? → **(C)** Participated in an event
-
+- 
 - **41.** What problem does the woman mention? → **(D)** A charge was higher than expected.
 - **42.** What does the woman imply when she HI says, "It could be a big job"? → **(A)** She is concerned about cost.
 - **43.** What will the man probably do next? → **(B)** Provide contact information
-
+- 
 - **44.** What is the conversation mainly about? → **(C)** A business pamphlet
 - **45.** What happened last month? → **(D)** Some facilities were renovated.
 - **46.** What does the man offer to do? → **(D)** Contact another company
-
+- 
 - **47.** What does the woman ask the man about? → **(C)** A staff request
 - **48.** Why does the woman say, "It seems like the right thing to do"? → **(C)** To show support for higher salaries
 - **49.** What does the man suggest? → **(B)** Mentioning a proposal at a gathering
-
+- 
 - **50.** What is the problem? → **(C)** A device is malfunctioning.
 - **51.** What is scheduled to happen in the afternoon? → **(B)** An executive meeting
 - **52.** What does the man imply about the IT department? → **(B)** It is not currently busy.
-
+- 
 - **53.** According to the woman, what do some customers want to buy? → **(C)** A mobile phone
 - **54.** What is the man uncertain about? → **(D)** When a shipment will arrive
 - **55.** What does the woman suggest? → **(A)** Assigning another worker to a shift
-
+- 
 - **56.** How did the woman find out about the event at the museum? → **(A)** By listening to the radio
 - **57.** According to the man, what did the National Space Agency do? → **(D)** Provided some items
 - **58.** What costs an extra fee? → **(B)** Accessing a temporary exhibit
-
+- 
 - **59.** What does the man ask the woman about? → **(B)** Preparations for an event
 - **60.** According to the man, when do the extra racks need to arrive? → **(C)** On Thursday
 - **61.** What does the man say he will do? → **(B)** Verify supply levels
-
+- 
 - **62.** According to the man, what did the woman do earlier today? → **(A)** Recorded a message
 - **63.** What does the woman mean when she Hi says, "That's what I figured"? → **(C)** She anticipated a cost increase.
 - **64.** When did the man originally plan to finish the work? → **(B)** At 11 A.M.
-
+- 
 - **65.** What event will the speakers attend tomorrow night? → **(C)** A fund-raising event
 - **66.** Why does the man want to switch dry cleaners? → **(B)** A business is going to close.
 - **67.** Look at the graphic. Which service ill qualifies for a discount? → **(C)** Cleaning
-
+- 
 - **68.** According to the man, what is the $50 maximum loan period? → **(C)** Three weeks
 - **69.** Look at the graphic. Which book will arrive in September? → **(C)** The History of London
 - **70.** What will the man most likely do next? → **(B)** Search for a publication
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What can employees do next week? → **(B)** Donate some items
 - **72.** When will employees most likely visit the community center? → **(D)** On June 16
 - **73.** What should some listeners do before the end of the day? → **(A)** Contact a coworker
-
+- 
 - **74.** What is the speaker mainly discussing? → **(B)** An overdue rental
 - **75.** What does the speaker recommend the listener do on the holidays? → **(C)** Place an item in a container
 - **76.** Why should the listener act quickly? → **(D)** An amount will increase.
-
+- 
 - **77.** Who most likely is Mark Campbell? → **(A)** An actor
 - **78.** Why does the speaker say, "We'll spend fHI about an hour here"? → **(C)** To notify listeners of a schedule change
 - **79.** What are listeners instructed to do? → **(A)** Keep their shoes on
-
+- 
 - **80.** What happened yesterday? → **(A)** A retail facility began operations.
 - **81.** What does the speaker say about the city government? → **(B)** It will receive additional revenue.
 - **82.** What is suggested about Analytic Systems? → **(C)** Its relocation caused many job losses.
-
+- 
 - **83.** Who most likely is the speaker? → **(A)** A caterer
 - **84.** What does the man mean when he says, "A real triumph"? → **(B)** A task was difficult to complete.
 - **85.** What will the man do later in the day? → **(C)** E-mail a client
-
+- 
 - **86.** What is the purpose of the announcement? → **(D)** To introduce a service
 - **87.** What does the speaker mention about the device? → **(B)** It plays content automatically.
 - **88.** According to the speaker, how can listeners get information about a temporary exhibition? → **(D)** By reading a pamphlet
-
+- 
 - **89.** What is being advertised? → **(C)** An Internet service
 - **90.** What do residents qualify for? → **(D)** A complimentary trial
 - **91.** What should listeners bring to the office? → **(D)** A piece of identification
-
+- 
 - **92.** Where do the listeners work? → **(B)** At a distribution center
 - **93.** What does the speaker ask one of the listeners to do? → **(A)** Give an employee a tour
 - **94.** Look at the graphic. Which company has postponed its delivery? → **(C)** Abdul Sons
-
+- 
 - **95.** Why is the speaker calling? → **(C)** To notify a prize winner
 - **96.** What does the speaker offer to do? → **(A)** Exchange some tickets
 - **97.** Look at the graphic. Which exit is closest to the administration office? → **(A)** Exit 10
-
+- 
 - **98.** According to the speaker, what did the interns do? → **(A)** Assisted with a company event
 - **99.** What are the listeners told to do? → **(D)** Reschedule overtime work
 - **100.** Look at the graphic. Where does the speaker suggest going? → **(C)** Luis Pizzeria

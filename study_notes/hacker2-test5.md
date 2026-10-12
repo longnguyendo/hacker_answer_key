@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Where most likely is the conversation taking place? → **(C)** At an automobile rental agency
 - **33.** What does the man inquire about? → **(C)** Baggage storage space
 - **34.** What does the woman ask the man to do? → **(A)** Provide a form of identification
-
+- 
 - **35.** What type of business most likely is Spectrum? → **(C)** A painting company
 - **36.** Why is the man calling? → **(B)** To discuss service costs
 - **37.** What does the man say he will do next? → **(D)** Take some measurements
-
+- 
 - **38.** Who most likely is the woman? → **(D)** A jewelry designer
 - **39.** Why does the man say, "Provided that you actually go"? → **(D)** To encourage participation in an event
 - **40.** What does the man say about the expo? → **(C)** It could benefit the woman's career.
-
+- 
 - **41.** What did the man recently do? → **(D)** Cooperated with a marketing team
 - **42.** What problem does the woman mention? → **(B)** An incorrect branch was included.
 - **43.** What does the man say he will do? → **(A)** Modify some advertising material
-
+- 
 - **44.** Why did the man arrive early? → **(C)** To display some merchandise
 - **45.** Why should the speakers finish a task now? → **(B)** Customers are waiting at an entrance.
 - **46.** What does the man suggest? → **(B)** Requesting additional assistance
-
+- 
 - **47.** What problem does the woman mention? → **(A)** A business is currently understaffed.
 - **48.** What does the man imply when he says, "the branch supervisor seems to think that's an important issue to address"? → **(D)** An assessment has been validated.
 - **49.** What will probably happen later today? → **(D)** Work opportunities will be made public.
-
+- 
 - **50.** What is the purpose of the call? → **(C)** To purchase some tickets
 - **51.** What is the man concerned about? → **(D)** Tour rates
 - **52.** How can visitors receive a discount? → **(C)** By being a cardholder
-
+- 
 - **53.** What did Erin receive last night? → **(B)** A business e-mail
 - **54.** What did the man do several hours ago? → **(D)** Viewed a rental unit
 - **55.** Who is Janet Davidson? → **(B)** A building proprietor
-
+- 
 - **56.** What are the speakers mainly discussing? → **(B)** Preparations for an activity
 - **57.** What does the woman mention about Splash World? → **(C)** It is conveniently located.
 - **58.** What does the man mean when he says, HI "I'll get right on that"? → **(D)** He will contact a business.
-
+- 
 - **59.** Why has the woman stopped by the shop? → **(B)** To inquire about a service
 - **60.** What is the woman's problem? → **(D)** She requires some items right away.
 - **61.** What will the woman most likely do next? → **(C)** Travel to Dover Boulevard
-
+- 
 - **62.** What does the man want to do? → **(C)** Buy a mobile device
 - **63.** What aspect of the PlusTouch 50 is the man interested in? → **(D)** Its price
 - **64.** What is mentioned about Graystone Electronics? → **(C)** It is offering products at a discount.
-
+- 
 - **65.** What did the woman already do? → **(B)** Went to a different floor
 - **66.** What does the man imply about Mr. Pinkerton? → **(D)** He did not inform the woman of a change.
 - **67.** Look at the graphic. Which office will the woman head to? → **(B)** 102
-
+- 
 - **68.** What is the man's problem? → **(C)** A device is inoperable.
 - **69.** How did the man acquire a coupon? → **(B)** By looking in a local publication
 - **70.** Look at the graphic. Which item will the man most likely use the coupon to purchase? → **(D)** BlendPro
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Who is Wan Cheol Shin? → **(A)** A musical performer
 - **72.** What will be available at the event? → **(C)** Music recordings
 - **73.** Why would listeners call the provided telephone number? → **(B)** To inquire about tickets
-
+- 
 - **74.** Where does the talk most likely take place? → **(D)** At a fashion seminar
 - **75.** What were given to the listeners? → **(A)** Event programs
 - **76.** What will the participants do in the afternoon? → **(B)** Watch a presentation
-
+- 
 - **77.** What is the announcement mainly about? → **(B)** An upgraded facility
 - **78.** What is mentioned about the exhibit hall? → **(C)** It contains interactive displays.
 - **79.** Why does the speaker say, "Mr. Donner is making preparations"? → **(B)** To explain a delay
-
+- 
 - **80.** What did a technician do this morning? → **(B)** Inspected a device
 - **81.** Why does the speaker say, "Plus, it's old (ip and out-of-date"? → **(C)** To provide a reason for the replacement
 - **82.** What does the speaker suggest that the listeners do? → **(D)** Use another office's equipment
-
+- 
 - **83.** Who most likely is the speaker? → **(D)** A public employee
 - **84.** According to the speaker, what does the listener want to do? → **(C)** Book a facility
 - **85.** Why might the listener visit the online site? → **(B)** To view venue information
-
+- 
 - **86.** What most likely do the listeners do for work? → **(D)** Sell products over the phone
 - **87.** According to the speaker, why are communication skills important? → **(C)** They allow customers to feel assured.
 - **88.** What does the speaker ask listeners to do? → **(D)** Participate in exercises
-
+- 
 - **89.** What is the main topic of the news report? → **(B)** A selected award recipient
 - **90.** What is mentioned about Maude Evans? → **(D)** She owns a local business.
 - **91.** What is implied about the city of Williamton? → **(C)** It does not have a performing arts center.
-
+- 
 - **92.** What must the listener do? → **(C)** Arrange an alternative venue
 - **93.** Look at the graphic. Which restaurant does the speaker recommend? → **(C)** Jacob's Steak House
 - **94.** According to the speaker, when will the company's event take place? → **(B)** In three weeks
-
+- 
 - **95.** What can be inferred about Game Warehouse? → **(A)** It holds a sale annually.
 - **96.** When will the event end? → **(C)** On August 5
 - **97.** Look at the graphic. Which item can customers receive for free? → **(B)** Wireless Gamepad
-
+- 
 - **98.** Who most likely is Lisa Gomez? → **(B)** An event organizer
 - **99.** Look at the graphic. When will James Money perform? → **(B)** On Friday
 - **100.** According to the speaker, what will half of the money raised by ticket sales be used for? → **(A)** Supporting a local organization

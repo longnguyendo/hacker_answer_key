@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Why did the woman visit the shop? → **(C)** To rent some equipment
 - **33.** What problem does the man mention? → **(A)** A period is longer than requested.
 - **34.** What will the man probably do next? → **(D)** Examine an identification card
-
+- 
 - **35.** What is being launched? → **(D)** An electronic device
 - **36.** What most likely is the man's occupation? → **(B)** Corporate administrator
 - **37.** According to the man, what does Emily Scott plan to do? → **(A)** Publish an article
-
+- 
 - **38.** What are the speakers mainly discussing? → **(C)** An upcoming publication
 - **39.** What is the problem? → **(A)** Some content was printed incorrectly.
 - **40.** What will the woman probably do next? → **(D)** Visit another company
-
+- 
 - **41.** Why is the man calling? → **(B)** To discuss preparations
 - **42.** What problem does the woman mention? → **(D)** A band has other plans.
 - **43.** What does the man recommend? → **(B)** Contacting another group
-
+- 
 - **44.** What caused the woman to be late? → **(B)** Road congestion
 - **45.** Why does the woman drive to work? → **(C)** She does not like walking in cold weather.
 - **46.** What does the man say he will do for the woman? → **(C)** Send her a link
-
+- 
 - **47.** Why is the woman calling? → **(D)** To inquire about a discount
 - **48.** What does the man suggest the woman do? → **(C)** Contact another employee
 - **49.** Why does the man say, "If you'd like"? → **(B)** To make an offer
-
+- 
 - **50.** Why was the man's trip disappointing? → **(B)** He was unable to explore a city.
 - **51.** According to the woman, what is true about Cape Town? → **(C)** It has several outdoor recreational spaces.
 - **52.** What was the man forced to do? → **(D)** Remain indoors
-
+- 
 - **53.** What type of event is taking place? → **(A)** A convention
 - **54.** What does the woman mean when she says, "Many of them seem to have been quite impressed"? → **(D)** Some guests enjoyed a talk.
 - **55.** According to the man, what will be uploaded to a Web site? → **(A)** Video recordings
-
+- 
 - **56.** Who is Felicity Gifford? → **(B)** A course participant
 - **57.** Why will the woman rearrange some furniture? → **(A)** An event will have many attendees.
 - **58.** What does the man recommend? → **(D)** Placing an employee at the door
-
+- 
 - **59.** What are the speakers mainly discussing? → **(C)** A poster for an association
 - **60.** Where does the man most likely work? → **(C)** At a law office
 - **61.** What does the man agree to do? → **(A)** Volunteer his services
-
+- 
 - **62.** How did the woman learn about a cleaning service? → **(C)** By talking to a relative
 - **63.** Look at the graphic. Which package will ijjjt the woman probably choose? → **(B)** Standard Package
 - **64.** What does the man say about the rates? → **(A)** They differ based on a home's size.
-
+- 
 - **65.** Why is the man changing his reservation time? → **(A)** He will be attending a meeting.
 - **66.** What does the woman say about the restaurant? → **(D)** It expanded its menu.
 - **67.** Look at the graphic. Why will the man be unable to use the coupon? → **(C)** He will not dine during the proper hours.
-
+- 
 - **68.** What does the woman inquire about? → **(C)** The origin of some animals
 - **69.** What does the man request the woman do? → **(A)** Check a facility's condition
 - **70.** Look at the graphic. Where will the new life animals be housed? → **(C)** In Enclosure 3
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Where most likely are the listeners? → **(D)** At a library
 - **72.** What does the speaker say will take place? → **(B)** Books will be sold to visitors.
 - **73.** Why does the speaker thank Camdale Enterprises? → **(A)** For sponsoring an event
-
+- 
 - **74.** What does the speaker say about the fireworks presentations? → **(A)** They will be made by several nations.
 - **75.** What does the speaker imply when he says, "The announcement was made by city hall this afternoon"? → **(B)** A decision was not expected.
 - **76.** Why was Kenton Lake an unsuitable venue? → **(C)** It had some safety issues.
-
+- 
 - **77.** Why are camera flashes prohibited? → **(C)** They frighten the wildlife.
 - **78.** What does the speaker tell listeners to do? → **(D)** Remain on the shuttle
 - **79.** According to the speaker, what can listeners do after seeing the African wildlife compound? → **(A)** Get something to eat
-
+- 
 - **80.** What will happen on April 14? → **(C)** A dining facility will begin operation.
 - **81.** According to the speaker, what is located on the fifth floor? → **(D)** A play area
 - **82.** Why does the speaker say, "Still not convinced"? → **(B)** To introduce an event
-
+- 
 - **83.** According to the speaker, what did the listener do? → **(B)** Asked for time off
 - **84.** What must be completed by the end of the week? → **(D)** A magazine article
 - **85.** What does the speaker indicate about Joanne Marr? → **(A)** She is a fellow employee.
-
+- 
 - **86.** What is taking place? → **(C)** A lecture series
 - **87.** What is the purpose of the event? → **(D)** To discuss scientific findings
 - **88.** What does the speaker recommend listeners do? → **(A)** Get a handout from a booth
-
+- 
 - **89.** What is the purpose of the message? → **(B)** To present travel options
 - **90.** What does the speaker mean when he says, "I know neither is ideal"? → **(D)** He is unable to fulfill a request.
 - **91.** What most likely will occur at noon? → **(A)** A meeting will finish.
-
+- 
 - **92.** What event will take place on August 3? → **(D)** A charity race
 - **93.** What is the purpose of the event? → **(A)** To support regional parks
 - **94.** What can listeners still do? → **(C)** Register for a competition
-
+- 
 - **95.** According to the speaker, what is available online? → **(B)** Product information
 - **96.** Look at the graphic. Who is on the corporate sales team? → **(B)** Laura Hargroder
 - **97.** According to the speaker, why should listeners press 0? → **(C)** To reach an employee
-
+- 
 - **98.** Who most likely are the listeners? → **(B)** Corporate executives
 - **99.** What does the speaker mention about the company's customers? → **(C)** They like smaller screens.
 - **100.** Look at the graphic. Which phone is the company's budget model? → **(B)** Genesis

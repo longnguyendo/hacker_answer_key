@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What does the woman inquire about? → **(B)** Whether the man wants some furniture
 - **33.** What does the man ask the woman to do? → **(C)** Provide some dimensions
 - **34.** What does the woman say the man can do? → **(D)** Visit her office
-
+- 
 - **35.** What is the problem? → **(B)** A clothing line is not selling well.
 - **36.** What solution does the man propose? → **(A)** Setting up a display
 - **37.** What does the man ask the woman to do? → **(C)** Create a plan
-
+- 
 - **38.** What does the man want to do? → **(C)** Purchase some tickets
 - **39.** Why does the man say, "Is that so"? → **(C)** To show surprise
 - **40.** What will the woman most likely do next? → **(D)** Make a reservation
-
+- 
 - **41.** Why has the man come to the facility? → **(D)** To have a document updated
 - **42.** What are the speakers mainly discussing? → **(B)** When to take an exam
 - **43.** What does the woman mean when she says, "That would probably be your best option"? → **(C)** The man should return later.
-
+- 
 - **44.** What are the speakers mainly discussing? → **(D)** Travel arrangements
 - **45.** Why are the speakers going to San Francisco? → **(A)** To take part in an event
 - **46.** What does the woman say about the highway? → **(C)** It is experiencing congestion problems.
-
+- 
 - **47.** What is the woman's problem? → **(C)** She cannot print some documents.
 - **48.** Where is the man going this afternoon? → **(B)** To a supply shop
 - **49.** What will the woman most likely send the man? → **(D)** A list of necessities
-
+- 
 - **50.** What is the man inquiring about? → **(D)** A business acquisition
 - **51.** Where are the speakers? → **(C)** At a corporate headquarters
 - **52.** What has the woman been told? → **(A)** Staff will not be laid off.
-
+- 
 - **53.** What is the woman concerned about? → **(D)** She has not received some materials.
 - **54.** Why does the woman want assistance? → **(C)** She has another task to complete.
 - **55.** What must the man deliver to the design department? → **(B)** Handbooks for personnel
-
+- 
 - **56.** What is the man's problem? → **(D)** A warehouse is too hot.
 - **57.** What will happen tomorrow? → **(C)** A delivery will arrive at a storage facility.
 - **58.** What will the man most likely do? → **(B)** Use fans in a workplace
-
+- 
 - **59.** Who is Mr. Henderson? → **(D)** A newspaper journalist
 - **60.** What are the women concerned about? → **(C)** An unexpected cancelation
 - **61.** What does the man suggest? → **(C)** Postponing a celebration
-
+- 
 - **62.** Who is the woman? → **(D)** A new employee
 - **63.** Look at the graphic. Which group does the woman belong to? → **(C)** Zeta Group
 - **64.** What does the man offer to do? → **(B)** Guide the woman to a destination
-
+- 
 - **65.** What will be offered during March? → **(B)** Reduced rates
 - **66.** Look at the graphic. What service will be ill 50 percent off? → **(B)** Perm
 - **67.** According to the man, what is Bradley doing? → **(D)** Putting together an informational sign
-
+- 
 - **68.** How long must employees use a temporary parking area? → **(C)** For four days
 - **69.** What does the woman mention about the company? → **(D)** It will cover some expenses.
 - **70.** Look at the graphic. Where is the sign probably located? → **(B)** At Clyde's Parking Tower
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What type of business is being advertised? → **(B)** A hotel chain
 - **72.** What has the company added to its locations? → **(A)** Business facilities
 - **73.** What should listeners do to learn more about the company? → **(C)** Access a Web page
-
+- 
 - **74.** According to the speaker, what did Mr. Duvall recently do? → **(C)** Lost a credit card
 - **75.** What will most likely happen by next Tuesday? → **(D)** A customer will receive an envelope.
 - **76.** What is the listener instructed to do? → **(A)** Contact a financial institution
-
+- 
 - **77.** Who most likely is the speaker? → **(D)** A labor union representative
 - **78.** According to the speaker, what has already been agreed upon? → **(D)** A restriction on weekly work hours
 - **79.** When are negotiations expected to finish? → **(C)** At the start of next week
-
+- 
 - **80.** Why is the speaker calling? → **(C)** To present a special offer
 - **81.** How can the listener get the FlexTouch 3? → **(A)** By completing an online questionnaire
 - **82.** What does the speaker mean when she Hi says, "no need to worry"? → **(C)** She is giving assurance of a free service.
-
+- 
 - **83.** What type of event is taking place? → **(C)** A scientific conference
 - **84.** What is mentioned about Clarence Meyers? → **(D)** He is a university faculty member.
 - **85.** What does the speaker imply when she says, "You'll want to pay close attention to this part"? → **(B)** Some findings are quite noteworthy.
-
+- 
 - **86.** Who most likely are the listeners? → **(C)** Sales professionals
 - **87.** What does the speaker mean when he says, "We don't need to discuss pay increases today"? → **(C)** He thinks the issue is straightforward.
 - **88.** What does the speaker tell listeners to do? → **(A)** Review some retirement plans
-
+- 
 - **89.** What did the resort ask guests to do last summer? → **(B)** Fill out surveys
 - **90.** What is mentioned about the resort? → **(C)** It has a small pool.
 - **91.** What will most likely happen in February? → **(A)** Staff will receive a memo.
-
+- 
 - **92.** What is the company going to do? → **(B)** Organize a fundraising event
 - **93.** What are listeners asked to do? → **(C)** Sell homemade items
 - **94.** What will the speaker include in an e-mail? → **(D)** A list of project goals
-
+- 
 - **95.** According to the speaker, why is the store undergoing renovations? → **(B)** To add a new department
 - **96.** Look at the graphic. Which information on A the coupon is incorrect? → **(D)** Date of validity
 - **97.** What are listeners encouraged to do? → **(A)** Speak to a store employee
-
+- 
 - **98.** Where does Marsha Fields work? → **(C)** At a law firm
 - **99.** According to the speaker, what did Mr. Reynolds request? → **(A)** A schedule change
 - **100.** Look at the graphic. Which office will Mr. Reynolds visit on Friday? → **(B)** 402

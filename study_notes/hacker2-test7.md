@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Where most likely are the speakers? → **(D)** At a rental agency
 - **33.** What does the man ask the woman about? → **(A)** Whether a vehicle was damaged
 - **34.** Why is the woman being charged extra? → **(C)** She did not refill the gas tank.
-
+- 
 - **35.** What does the man say about the book fair? → **(D)** It had a lower turnout than anticipated.
 - **36.** Why does the man say, "Do you have any clue as to why she didn't"? → **(B)** He is curious about an advertising decision.
 - **37.** What was Ms. Gabbert unable to do? → **(A)** Devote more funds for an event
-
+- 
 - **38.** What did the woman do last Thursday? → **(A)** Wrote an article
 - **39.** According to the man, what did Lima Kitchen recently do? → **(B)** Started business operations
 - **40.** What does the man mean when he says, "maybe something similar is in order"? → **(C)** He is promoting another article.
-
+- 
 - **41.** What are the speakers mainly discussing? → **(D)** The possibility of expansion
 - **42.** Why is Allen concerned? → **(B)** He does not want to lose customers.
 - **43.** What does the woman recommend? → **(C)** Buying a nearby property
-
+- 
 - **44.** What does the man want to do? → **(A)** Enroll in a class
 - **45.** What did the man do this morning? → **(C)** Visited an online page
 - **46.** What will the woman probably do next? → **(D)** Hand over some documents
-
+- 
 - **47.** Where do the speakers most likely work? → **(D)** At a donut shop
 - **48.** Why is the woman concerned? → **(B)** A commercial lacks some information.
 - **49.** What does the woman mean when she ill says, "I think that's what we need to do at this point"? → **(A)** She wants to remove a segment.
-
+- 
 - **50.** Who most likely is the man? → **(B)** A customer service representative
 - **51.** According to the man, what did the woman fail to do? → **(B)** Input a correct detail
 - **52.** According to the man, what should the woman do with a code? → **(A)** Include it with an order
-
+- 
 - **53.** What does the woman say about her work? → **(D)** It involves frequent movements.
 - **54.** What type of business does the woman work in? → **(B)** A footwear factory
 - **55.** What does the man suggest the woman do? → **(C)** Discuss a situation with a supervisor
-
+- 
 - **56.** What issue does the man mention? → **(C)** A job opening has received little interest.
 - **57.** What does the woman offer to do? → **(A)** Coordinate with an online firm's staff
 - **58.** What does the woman ask the man to do? → **(D)** Give her an update this afternoon
-
+- 
 - **59.** What is implied about First United Bank? → **(D)** It advertises in a publication.
 - **60.** Why is the man seeking a loan? → **(B)** To purchase some equipment
 - **61.** What does Jessica tell the man to do? → **(A)** Initiate an application process
-
+- 
 - **62.** Who most likely is the man? → **(B)** A television host
 - **63.** What is unique about the ES32 suitcase? → **(C)** Its accessories
 - **64.** What will probably happen in October? → **(C)** A discount will be discontinued.
-
+- 
 - **65.** What is the conversation mainly about? → **(A)** An incorrect charge
 - **66.** What does the man offer to do? → **(B)** Provide a voucher
 - **67.** Look at the graphic. What brand does the woman want to return? → **(C)** Kent
-
+- 
 - **68.** Why is the performance being held? → **(B)** To raise funds for an organization
 - **69.** Look at the graphic. What information is incorrectly delivered by the man? → **(C)** The section letter
 - **70.** What are audience members not permitted to do? → **(B)** Take pictures of the performance
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** According to the speaker, what did the speaker receive? → **(A)** A script
 - **72.** What does the speaker recommend? → **(B)** Including graphics in a presentation
 - **73.** Why is Carol Wilkins unavailable on June 14? → **(C)** She will be taking a business trip.
-
+- 
 - **74.** Where is the talk most likely taking place? → **(D)** In a convention center
 - **75.** According to the speaker, what is a feature of the Clear Flow XS? → **(D)** It is energy efficient.
 - **76.** What does the speaker mean when he says, "I'll go over that in detail soon"? → **(B)** He will not provide pricing information immediately.
-
+- 
 - **77.** What is being advertised? → **(D)** Lakefront land
 - **78.** What added benefit is available to buyers? → **(B)** Access to public utilities
 - **79.** According to the speaker, why should listeners contact the office? → **(C)** To arrange a tour of a location
-
+- 
 - **80.** Where are the listeners? → **(A)** At a senior facility
 - **81.** What is mentioned about volunteers? → **(B)** They will plan various events.
 - **82.** What will the speaker most likely do next? → **(B)** Distribute documents
-
+- 
 - **83.** What problem does the speaker mention? → **(B)** Insufficient workers will be available.
 - **84.** What are the listeners asked to do? → **(A)** Inform staff members of a policy
 - **85.** Why does the speaker say, "Don't HI misunderstand me, though"? → **(B)** To introduce an additional detail
-
+- 
 - **86.** What did the speaker do this morning? → **(C)** Read a memo from a company executive
 - **87.** What is mentioned about the mentorship program? → **(D)** It will ensure there are many candidates for promotion.
 - **88.** What does the speaker ask the listeners to do? → **(D)** Recommend participants for a program
-
+- 
 - **89.** According to the speaker, what did Marsha Summers do? → **(A)** Appeared on programs by television networks
 - **90.** What will the speaker ask Ms. Summers about? → **(C)** An environmental group
 - **91.** What does the speaker recommend listeners do? → **(A)** Make a donation
-
+- 
 - **92.** Look at the graphic. What time will Benny HI Stein be permitted to board the aircraft? → **(B)** At 10:10 a.m.
 - **93.** Why has Flight 382 been delayed? → **(A)** It has a mechanical problem.
 - **94.** What will happen at 11 a.m.? → **(C)** An announcement will be made.
-
+- 
 - **95.** Why will some neighborhoods temporarily lose power? → **(A)** A system will be improved.
 - **96.** Look at the graphic. When will an outage flp occur in a commercial neighborhood? → **(B)** On August 12
 - **97.** According to the speaker, why should a listener call the customer service department? → **(D)** To report an electrical problem
-
+- 
 - **98.** What assignment was the listener given? → **(B)** Organizing a company event
 - **99.** What does the man suggest the listener do? → **(A)** Change a schedule
 - **100.** Look at the graphic. Where is the sign Hll most likely located? → **(A)** In Baker Park

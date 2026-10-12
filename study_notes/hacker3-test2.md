@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What will the community center receive? → **(C)** Funds from the government
 - **33.** What are the speakers planning to do? → **(A)** Upgrade old devices
 - **34.** Why must the speakers review some documents? → **(C)** To determine some restrictions
-
+- 
 - **35.** Why did the woman contact the man? → **(C)** To arrange an interview
 - **36.** When will the speakers most likely meet? → **(B)** On Thursday afternoon
 - **37.** What will the man most likely bring for the woman? → **(B)** A work sample
-
+- 
 - **38.** What does the man say about Detroit? → **(A)** It experienced bad weather.
 - **39.** According to the woman, why is Mr. Herman coming to the office? → **(D)** To observe a presentation
 - **40.** What will the man probably do next? → **(C)** Pass on some information
-
+- 
 - **41.** What problem does the woman mention? → **(A)** A line has formed at a device.
 - **42.** What does the woman mean when she says, "I'm in a bit of a rush"? → **(C)** She has to catch a flight soon.
 - **43.** What does the man suggest the woman do? → **(D)** Speak with an employee
-
+- 
 - **44.** According to the woman, what has caused a distraction? → **(D)** Noisy appliances
 - **45.** What does the woman ask the man to do? → **(B)** Send a technician
 - **46.** What is probably going to take place on Friday? → **(A)** A company outing
-
+- 
 - **47.** Where does the woman work? → **(D)** At a landscaping firm
 - **48.** What does the woman say her company did last summer? → **(A)** Took on a commercial job
 - **49.** What does the woman ask for? → **(D)** Project details
-
+- 
 - **50.** What is the purpose of the woman's visit? → **(C)** To get some medication
 - **51.** Who most likely are the men? → **(A)** Pharmacists
 - **52.** What information does Daniel provide? → **(A)** The location for a shot
-
+- 
 - **53.** When will a meeting take place? → **(B)** In two days
 - **54.** What does the woman want to do? → **(C)** Practice giving a presentation
 - **55.** What does the man mean when he says, "I can join you in the conference room"? → **(B)** He will offer some comments.
-
+- 
 - **56.** Where most likely are the speakers? → **(D)** In a residential unit
 - **57.** Why does the woman want to wait to make up her mind? → **(C)** She will look at another space.
 - **58.** What happened earlier today? → **(B)** A vacant apartment was visited.
-
+- 
 - **59.** What is the conversation mainly about? → **(B)** The details of a negotiation
 - **60.** What is mentioned about staff? → **(D)** They will undergo an assessment.
 - **61.** Why does the woman require the man's approval? → **(C)** She wants to submit another offer.
-
+- 
 - **62.** What type of event is happening tonight? → **(D)** A play opening
 - **63.** What does the woman ask the man to do? → **(A)** Arrange some furniture
 - **64.** Look at the graphic. Where most likely will photos be taken? → **(C)** In Area C
-
+- 
 - **65.** What does the man ask about? → **(D)** The availability of an accessory
 - **66.** Look at the graphic. Why is the man unable to use the coupon? → **(D)** A purchase amount is too low.
 - **67.** What will the woman probably do next? → **(C)** Lead a customer to a checkout
-
+- 
 - **68.** Why is the man worried? → **(C)** A flight might be missed.
 - **69.** What does the man want to do? → **(B)** Access the Internet
 - **70.** Look at the graphic. Which flight will the speakers take? → **(A)** UR770
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What was changed recently? → **(D)** The location of a business
 - **72.** What is the listener asked to do? → **(D)** Bring a document
 - **73.** Why should the listener show up early? → **(C)** To complete some paperwork
-
+- 
 - **74.** What is mentioned about the Eastwood Entertainment? → **(D)** It purchased a venue.
 - **75.** What does the speaker imply when he Hi says, "tickets will go quickly"? → **(D)** An actor is famous.
 - **76.** What does the speaker recommend that listeners do? → **(A)** View an online map
-
+- 
 - **77.** Who is the speaker? → **(B)** A corporate advisor
 - **78.** What did the speaker do five years ago? → **(A)** Started a new company
 - **79.** What will happen over the next two weeks? → **(C)** A campaign will be developed.
-
+- 
 - **80.** What type of business is being advertised? → **(A)** An electronics retailer
 - **81.** According to the speaker, what happens each month? → **(C)** An item is given away.
 - **82.** How can listeners take part in a drawing? → **(D)** By spending a certain amount
-
+- 
 - **83.** Where most likely does the speaker work? → **(C)** At a financial firm
 - **84.** Why are volunteers needed? → **(D)** To represent a business at an event
 - **85.** According to the speaker, what has already been done? → **(B)** Some handouts were prepared.
-
+- 
 - **86.** What are the listeners working on this week? → **(D)** Developing a software program
 - **87.** What does the speaker imply when he says, "I'm even willing to give you an extra day to finish up your project"? → **(C)** A training session is important.
 - **88.** What does the speaker recommend? → **(A)** Registering for an event
-
+- 
 - **89.** What is the purpose of the call? → **(D)** To make a complaint
 - **90.** What does the speaker mean when she Hi says, "I think he needs to visit my home again"? → **(C)** A treatment was not effective.
 - **91.** What does the speaker want to discuss? → **(C)** A future appointment
-
+- 
 - **92.** What is the topic of the seminar? → **(B)** Trade regulations
 - **93.** What will most likely happen first? → **(D)** A talk will be given.
 - **94.** According to the speaker, what will listeners be able to do? → **(B)** Inquire about their fields
-
+- 
 - **95.** Who most likely is the speaker? → **(C)** A research analyst
 - **96.** What did the speaker do last week? → **(B)** Distributed questionnaires
 - **97.** Look at the graphic. Which product are A customers dissatisfied with? → **(B)** Sleek Sneakers
-
+- 
 - **98.** Who most likely are the listeners? → **(D)** University students
 - **99.** What is mentioned about the Sahara Wildlife Reserve? → **(B)** It will be expanded this year.
 - **100.** Look at the graphic. What will the listeners Ull see first? → **(A)** A sand fox

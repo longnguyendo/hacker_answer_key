@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Where most likely is the conversation taking place? → **(B)** At a manufacturing plant
 - **33.** According to the man, what did the speakers discuss this morning? → **(D)** Malfunctioning equipment
 - **34.** What problem does the woman mention? → **(A)** There is not much preparation time.
-
+- 
 - **35.** What does the man offer to do? → **(B)** Purchase a beverage
 - **36.** What does the man mean when he says, A "I think that one was discontinued"? → **(A)** A seasonal promotion was changed.
 - **37.** Why must a special request be made? → **(B)** The woman is on a diet.
-
+- 
 - **38.** What does the man ask the woman to do? → **(D)** Complete some reports
 - **39.** Why is the woman going out of town? → **(D)** To participate in a celebration
 - **40.** According to the woman, what is Catherine Dawkins willing to do? → **(B)** Work additional hours
-
+- 
 - **41.** What did the man do two weeks ago? → **(C)** Bought an item
 - **42.** What does the woman say the man failed to provide? → **(D)** A unit number
 - **43.** What does the woman recommend? → **(A)** Talking to a property manager
-
+- 
 - **44.** What is the conversation mainly about? → **(C)** A special promotional offer
 - **45.** What is mentioned about the Verso X3? → **(A)** It was recently released.
 - **46.** What will most likely happen next? → **(D)** The woman's device will be examined.
-
+- 
 - **47.** What is the woman in charge of? → **(C)** Planning a meeting
 - **48.** Why will more time be allowed for Helen? → **(D)** She needs more time for a presentation.
 - **49.** What will the woman most likely do next? → **(B)** Revise an agenda
-
+- 
 - **50.** How can employees secure time off? → **(A)** By completing the necessary form
 - **51.** According to the woman, why might the man's request be denied? → **(D)** Other people have submitted applications.
 - **52.** What will the man probably do next? → **(C)** Speak with a supervisor
-
+- 
 - **53.** What are the speakers mainly discussing? → **(B)** Foreign language lessons
 - **54.** What information does Jenny provide? → **(C)** The start date of a course
 - **55.** What is the man eligible to receive? → **(A)** A special fee reduction
-
+- 
 - **56.** What type of business do the speakers most likely work for? → **(B)** An advertising firm
 - **57.** What does the man suggest? → **(C)** Promoting outdoor merchandise
 - **58.** Why does the man say, "Alyssa's at an off-site training session all day today"? → **(B)** To explain why he will work alone
-
+- 
 - **59.** Why does the man call the woman? → **(A)** To follow up on an agreement
 - **60.** What does the woman say about the legal team? → **(B)** It is checking a document.
 - **61.** Why does the man congratulate the woman? → **(D)** A product has attracted attention.
-
+- 
 - **62.** What did the man already do? → **(D)** Reviewed stock levels
 - **63.** Why is cough medicine in short supply? → **(A)** An illness is common at the moment.
 - **64.** Look at the graphic. Which item will the man order? → **(B)** NoAche
-
+- 
 - **65.** According to the man, how many art tours does Tuscan Sun Excursions operate daily? → **(B)** 2
 - **66.** Look at the graphic. Where most likely does the woman want to go? → **(C)** To Building C
 - **67.** What does the man offer to do? → **(A)** Provide contact information
-
+- 
 - **68.** Where is the conversation most likely taking place? → **(D)** At an airport
 - **69.** Look at the graphic. Which ingredient amount is too high for the man? → **(C)** 22g
 - **70.** What does the man say he will do? → **(B)** Wait for a meal
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Where most likely are the listeners? → **(A)** At a museum
 - **72.** According to the speaker, what is unusual about The Flames of Clouds? → **(B)** Its use of color
 - **73.** What will listeners most likely do next? → **(D)** Go to another gallery
-
+- 
 - **74.** What type of business is being advertised? → **(C)** A food outlet
 - **75.** According to the speaker, what distinguishes the company from its competitors? → **(B)** Unlimited toppings
 - **76.** Why should listeners visit the business's social media page? → **(A)** Some deals are available.
-
+- 
 - **77.** Why is the speaker addressing the audience? → **(C)** To announce a change
 - **78.** What can listeners obtain from a staff member? → **(C)** Programs for the event
 - **79.** What does the speaker imply when he lUl says, "We received complaints about people eating during our last production"? → **(D)** A policy was recently altered.
-
+- 
 - **80.** What is Dr. Mattson's area of expertise? → **(D)** Ecology
 - **81.** According to the speaker, what was released on Monday? → **(A)** An academic publication
 - **82.** What is mentioned about Dr. Mattson? → **(A)** He will address some criticisms.
-
+- 
 - **83.** Where do the listeners most likely work? → **(B)** At a cosmetics firm
 - **84.** Why does the speaker say, "I don't want to (Ipf turn anyone away, though"? → **(A)** She will provide a solution.
 - **85.** What will Beth Meyers most likely do? → **(D)** Contact applicants
-
+- 
 - **86.** What is Ivan Schwartz's occupation? → **(C)** Programmer
 - **87.** According to the speaker, what will Ivan Schwartz do? → **(D)** Learn about new software
 - **88.** What are listeners asked to do? → **(B)** Welcome a colleague
-
+- 
 - **89.** Why does the speaker thank the listener? → **(B)** For inviting her to a social gathering
 - **90.** What does the speaker imply when she says, "Could you give me her contact information"? → **(C)** She may hire a designer.
 - **91.** What problem is mentioned? → **(D)** A service is no longer offered.
-
+- 
 - **92.** What is the purpose of the report? → **(A)** To describe promotional efforts
 - **93.** According to the speaker, what does Shenzhen possess? → **(B)** Favorable tax rates
 - **94.** What do officials think about Shenzhen? → **(C)** It can achieve further economic success.
-
+- 
 - **95.** What does the speaker plan to do in December? → **(D)** Travel overseas for work
 - **96.** Look at the graphic. How much does the subscription the speaker is interested in cost? → **(B)** $50
 - **97.** What does the speaker request? → **(A)** A partial refund
-
+- 
 - **98.** How often will buses run beginning next month? → **(A)** Every 20 minutes
 - **99.** Look at the graphic. When will the regular shuttle bus service most likely resume? → **(C)** In September
 - **100.** What is mentioned about Brenda Kirk? → **(B)** She has arranged a lecture series.

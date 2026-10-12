@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Why is Malinda unable to stay until 5 p.m.? → **(B)** She must get a family member.
 - **33.** What does the man agree to do? → **(D)** Fill in for a colleague
 - **34.** According to the woman, where did the man previously work? → **(B)** At an advertising firm
-
+- 
 - **35.** Where do the speakers most likely work? → **(C)** At a record store
 - **36.** What does the man recommend? → **(B)** Contacting local performers
 - **37.** According to the woman, what do some customers want? → **(A)** Artists' signatures
-
+- 
 - **38.** Where most likely does the conversation take place? → **(C)** At a garage
 - **39.** What does the woman say about her husband? → **(C)** He is employed by a nearby business.
 - **40.** What should the woman do when she leaves? → **(A)** Make a payment
-
+- 
 - **41.** When is the man planning to return from Seattle? → **(B)** On Wednesday
 - **42.** What will probably take place tomorrow morning? → **(C)** A marketing presentation
 - **43.** Why does the man say, "I'll take a later HI flight, then"? → **(D)** To agree to a request
-
+- 
 - **44.** What is the conversation mainly about? → **(C)** Eating at an on-site facility
 - **45.** According to the woman, why has there been a change? → **(A)** To respond to worker comments
 - **46.** When will the man most likely join the woman? → **(D)** When a task is completed
-
+- 
 - **47.** Where most likely do the speakers work? → **(A)** At a financial firm
 - **48.** What does the man ask the woman about? → **(D)** An assignment's deadline
 - **49.** What does the man mean when he says, "It will be easier for me to refer to that"? → **(C)** He wants to view an electronic file.
-
+- 
 - **50.** Why is the man calling? → **(D)** To make a complaint
 - **51.** According to the woman, what did the library do last month? → **(B)** Changed a notification procedure
 - **52.** What does the woman say she can do? → **(D)** Waive a charge
-
+- 
 - **53.** What was held on Monday? → **(B)** A job interview
 - **54.** What is mentioned about Sheryl Johnson? → **(A)** She lacks relevant experience.
 - **55.** What will the woman probably do next? → **(C)** Discuss a matter with a superior
-
+- 
 - **56.** What is the problem? → **(A)** A gathering was noisy.
 - **57.** What does the woman imply when she says, "Are you serious"? → **(C)** She is frustrated by a closure.
 - **58.** What does the woman ask the man about? → **(A)** The number of an apartment
-
+- 
 - **59.** Who most likely is the man? → **(C)** A salesperson
 - **60.** What problem does the woman mention? → **(D)** A product is damaged.
 - **61.** What does the woman ask the man to do? → **(B)** Wrap a purchase
-
+- 
 - **62.** Where is the conversation most likely taking place? → **(B)** At an amusement park
 - **63.** According to Amy, how long has the facility been in operation? → **(C)** For one year
 - **64.** Why was the man unaware of an event? → **(C)** He did not notice a schedule.
-
+- 
 - **65.** What will the man do tonight? → **(B)** Assist with a move
 - **66.** What problem does the man mention? → **(B)** A list is incomplete.
 - **67.** Look at the graphic. Who works in the marketing department? → **(A)** Monica Pearce
-
+- 
 - **68.** Look at the graphic. How much did the man pay for the ticket? → **(B)** $10
 - **69.** What happened yesterday? → **(C)** A notice was posted online.
 - **70.** Why is the man unable to attend the festival on Sunday? → **(A)** He is going to meet with family.
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Who is the speaker? → **(C)** An airline pilot
 - **72.** When will Flight 876 reach its destination? → **(B)** At 5:20 p.m.
 - **73.** What does the speaker suggest listeners do? → **(A)** Complete a document
-
+- 
 - **74.** What is being advertised? → **(B)** An eco-friendly product line
 - **75.** What is supposed to happen in March? → **(C)** A product will be available in retail stores.
 - **76.** According to the speaker, what can listeners do online? → **(D)** Make a purchase
-
+- 
 - **77.** What type of business does the speaker work for? → **(C)** A law firm
 - **78.** Why does the speaker say, "But over 75 0 guests will be attending this event"? → **(C)** To indicate a problem
 - **79.** What does the speaker ask the listener to do? → **(D)** Visit an event venue
-
+- 
 - **80.** When will the heat wave begin? → **(B)** On August 6
 - **81.** What are listeners advised to do? → **(A)** Avoid exercise
 - **82.** What does the speaker say is available on the Web site? → **(B)** Medical information
-
+- 
 - **83.** What type of business is being advertised? → **(C)** A financial company
 - **84.** According to the speaker, why is the company highly ranked in a survey? → **(D)** Its employees are trustworthy.
 - **85.** Why should listeners contact the hotline? → **(B)** To arrange a consultation
-
+- 
 - **86.** Who most likely is the speaker? → **(A)** A technician
 - **87.** What does the speaker mean when he says, "the problem is more serious than I thought"? → **(C)** A device is significantly damaged.
 - **88.** What does the speaker offer? → **(A)** A store credit
-
+- 
 - **89.** What is the main purpose of the talk? → **(B)** To introduce a software product
 - **90.** According to the speaker, what can managers do? → **(D)** Track employee performance
 - **91.** What will most likely happen next? → **(B)** A demonstration will be given.
-
+- 
 - **92.** Look at the graphic. Which department is the woman applying to? → **(B)** Design
 - **93.** What does the speaker ask the listener to do? → **(C)** Change a schedule
 - **94.** What did the speaker do on Wednesday? → **(B)** Submitted a sample
-
+- 
 - **95.** What is mentioned about the event? → **(A)** It has participants from many countries.
 - **96.** Look at the graphic. Which booth is Matthew Walsh using? → **(A)** Booth A
 - **97.** According to the speaker, what can listeners do at the information desk? → **(D)** Register for a class
-
+- 
 - **98.** Why does the speaker need to purchase furniture? → **(C)** An employee is being transferred.
 - **99.** Look at the graphic. How much of a llll discount will the company most likely receive? → **(A)** $10
 - **100.** What does the speaker say she will do? → **(B)** Send a form

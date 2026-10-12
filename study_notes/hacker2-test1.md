@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Who is the woman? → **(D)** A store owner
 - **33.** What information was incorrectly printed? → **(B)** The date of an opening
 - **34.** What does the man offer to do? → **(C)** Share a mistake with a coworker
-
+- 
 - **35.** What type of event is taking place today? → **(C)** A company gathering
 - **36.** What was the man responsible for? → **(D)** Documenting event attendance
 - **37.** What will the man probably do next? → **(C)** Talk to a chef
-
+- 
 - **38.** What is the conversation mainly about? → **(D)** An employee club
 - **39.** What does the woman mean when she says, "I was a bit concerned"? → **(A)** She does not want to race.
 - **40.** What does the man say he will do this afternoon? → **(B)** Send a document
-
+- 
 - **41.** What is the problem? → **(D)** An incorrect file was transmitted.
 - **42.** Where does the woman have to go? → **(C)** To a business lunch
 - **43.** What does the man plan to do on Wednesday? → **(C)** Release a company listing
-
+- 
 - **44.** What is the woman concerned about? → **(B)** Some complaints were reported.
 - **45.** What did the man recently do? → **(B)** Carried out some tests
 - **46.** What does the man ask about? → **(C)** An assignment deadline
-
+- 
 - **47.** Where most likely is the conversation taking place? → **(C)** At a print shop
 - **48.** What does the man ask the woman to do? → **(C)** Suggest a product type
 - **49.** What information does the woman provide the man with? → **(D)** How much an order will cost
-
+- 
 - **50.** Why does the man visit the business? → **(D)** To inquire about an offering
 - **51.** Why was the evening class canceled? → **(C)** Student registration was low.
 - **52.** What does the woman offer to do? → **(D)** Get a handout for the man
-
+- 
 - **53.** Who most likely is the man? → **(B)** A repair technician
 - **54.** What problem does the man mention? → **(C)** A device is malfunctioning.
 - **55.** Why will Janice call the building manager? → **(B)** To report on some work
-
+- 
 - **56.** Where most likely are the speakers? → **(D)** At an airport
 - **57.** Why is the woman unable to board? → **(D)** She was caught in traffic congestion.
 - **58.** What does the man offer to do? → **(C)** Modify some travel arrangements
-
+- 
 - **59.** What is mentioned about the man's trip? → **(A)** It has not been canceled.
 - **60.** What does the woman mean when she says, "How'd your clients react"? → **(C)** The man's delay may upset potential clients.
 - **61.** What needs to be completed by tomorrow? → **(D)** A promotional campaign
-
+- 
 - **62.** Who most likely is the woman? → **(D)** A financial advisor
 - **63.** What will the woman do in April? → **(B)** Travel to another country
 - **64.** Why does the man say, "Never mind then"? → **(C)** To indicate that the woman will miss an event
-
+- 
 - **65.** Who most likely are the speakers? → **(D)** Dining establishment personnel
 - **66.** According to the woman, what happened last weekend? → **(B)** A business was at full capacity.
 - **67.** Look at the graphic. Which channel will A Harold Newman appear on? → **(B)** 5
-
+- 
 - **68.** Where most likely is the conversation taking place? → **(D)** At a personal residence
 - **69.** What information does the man provide the woman with? → **(D)** The anticipated expense for a task
 - **70.** Look at the graphic. Which location does the man most likely work in? → **(B)** Shelbyville
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What is the purpose of the message? → **(B)** To provide insurance information
 - **72.** What detail does the speaker need? → **(D)** Vehicle type
 - **73.** What does the speaker ask the listener to do? → **(C)** Return a phone call
-
+- 
 - **74.** Where most likely is the talk taking place? → **(B)** At a press conference
 - **75.** According to the speaker, what will happen in nine months? → **(B)** A facility will be completed.
 - **76.** What will be added to the company Web site? → **(D)** Information about employment opportunities
-
+- 
 - **77.** When will the store return to its regular hours? → **(C)** On June 10
 - **78.** What should listeners do to make a reservation? → **(B)** Leave a detailed voice mail
 - **79.** Why should listeners visit a Web site? → **(A)** To learn about an event
-
+- 
 - **80.** What is the announcement mainly about? → **(A)** A mobile application
 - **81.** What does Jay Kim offer to do? → **(D)** Lead a training session
 - **82.** What does the speaker mean when he says, "Twenty minutes should be enough"? → **(C)** The system can be learned quickly.
-
+- 
 - **83.** What is the purpose of the talk? → **(B)** To provide details about a program
 - **84.** According to the speaker, what will take place in the afternoons? → **(A)** Participants will divide into groups.
 - **85.** What will be provided to the listeners? → **(D)** An information packet
-
+- 
 - **86.** What will most likely happen at the end of May? → **(C)** An executive will leave a job.
 - **87.** What does the speaker imply when he § says, "it now employs over 15,000 staff members"? → **(B)** A business has experienced tremendous growth.
 - **88.** What is mentioned about Dale Fenny? → **(D)** He is in the financial field.
-
+- 
 - **89.** What does Harford Snow promise to do? → **(C)** Perform a task within a few hours
 - **90.** According to the speaker, what service is available for an extra fee? → **(D)** Ice removal
 - **91.** What information might listeners get on the company's Web site? → **(B)** Consumer reviews
-
+- 
 - **92.** Who is Francine Austen? → **(C)** A magazine editor
 - **93.** Look at the graphic. Which month was the digital version of Currents launched? → **(B)** February
 - **94.** What will be discussed during the interview? → **(B)** A subscription model
-
+- 
 - **95.** Why was the tour delayed? → **(C)** A vehicle was malfunctioning.
 - **96.** Look at the graphic. Which area will the group not be able to visit? → **(A)** Rainforest Habitat
 - **97.** What will the listeners receive at the visitors center? → **(D)** A free gift
-
+- 
 - **98.** What does the speaker plan to do in April? → **(B)** Take some tests
 - **99.** What problem does the speaker mention? → **(B)** She forgot a prior commitment.
 - **100.** Look at the graphic. Which session will the speaker probably miss? → **(C)** Resumes Cover Letters

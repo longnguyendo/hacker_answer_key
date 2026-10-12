@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What is the conversation mainly about? → **(B)** A technical issue
 - **33.** What is Mr. Bradford's team doing? → **(C)** Repairing some telephone lines
 - **34.** What does the woman suggest? → **(A)** Working on a different floor
-
+- 
 - **35.** What does the man's family plan to do? → **(D)** Visit a tourist attraction
 - **36.** What is provided for free to guests? → **(C)** Transportation
 - **37.** Why does the woman ask the man to wait? → **(B)** She needs to verify something.
-
+- 
 - **38.** Who most likely is the man? → **(A)** A performer
 - **39.** What is mentioned about the Carter Institute? → **(D)** It gives funds to local groups.
 - **40.** What does the woman mean when she says, "we have a special treat for listeners"? → **(D)** A musical piece will be played.
-
+- 
 - **41.** What are the speakers mainly discussing? → **(C)** A photo shoot
 - **42.** What does the woman propose? → **(A)** Meeting at a construction site
 - **43.** What does the man say the woman can do? → **(A)** Return to a venue at a later date
-
+- 
 - **44.** According to the woman, what happened last Tuesday? → **(B)** A shipment of goods arrived.
 - **45.** How does the man want to deal with the problem? → **(C)** By starting a new business relationship
 - **46.** What does the woman request the man do? → **(A)** Display some signs
-
+- 
 - **47.** What is the conversation mainly about? → **(C)** Materials for a business presentation
 - **48.** What does the man suggest the woman do? → **(D)** Include more information
 - **49.** What will the woman emphasize? → **(B)** The reaction of people to different colors
-
+- 
 - **50.** Where do the speakers most likely work? → **(B)** At a staffing agency
 - **51.** What did Tim and Laura do this morning? → **(A)** Met with a potential client
 - **52.** What do Tim and Laura recommend? → **(C)** Explaining some benefits
-
+- 
 - **53.** Who most likely is Joowon Kim? → **(A)** A technician
 - **54.** Why does the man say, "He'll use it for the budget analysis project"? → **(D)** To emphasize the necessity of a task
 - **55.** What will the woman probably do next? → **(B)** Contact another team
-
+- 
 - **56.** What problem does the woman mention? → **(C)** She is unfamiliar with a program.
 - **57.** What does the man suggest? → **(A)** Referring to a handbook
 - **58.** According to the man, what should the woman talk to the manager about? → **(D)** Complications with a messaging system
-
+- 
 - **59.** Why is the man calling the woman? → **(A)** To discuss a potential inaccuracy
 - **60.** What does the woman say about Teresa Ford? → **(B)** She has been assigned additional hours.
 - **61.** What will the woman probably do next? → **(C)** Submit a request to a coworker
-
+- 
 - **62.** What did the man forget? → **(D)** A visit time
 - **63.** Look at the graphic. Which service is the man most interested in? → **(B)** Game Downloads
 - **64.** According to the woman, what is the man unable to receive? → **(D)** A reduced price
-
+- 
 - **65.** *(question page is missing from the PDF)* → **(A)**
 - **66.** *(question page is missing from the PDF)* → **(C)**
 - **67.** *(question page is missing from the PDF)* → **(A)**
-
+- 
 - **68.** *(question page is missing from the PDF)* → **(C)**
 - **69.** *(question page is missing from the PDF)* → **(B)**
 - **70.** *(question page is missing from the PDF)* → **(B)**
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** *(question page is missing from the PDF)* → **(C)**
 - **72.** *(question page is missing from the PDF)* → **(D)**
 - **73.** *(question page is missing from the PDF)* → **(B)**
-
+- 
 - **74.** *(question page is missing from the PDF)* → **(D)**
 - **75.** *(question page is missing from the PDF)* → **(A)**
 - **76.** *(question page is missing from the PDF)* → **(B)**
-
+- 
 - **77.** *(question page is missing from the PDF)* → **(C)**
 - **78.** *(question page is missing from the PDF)* → **(A)**
 - **79.** *(question page is missing from the PDF)* → **(B)**
-
+- 
 - **80.** *(question page is missing from the PDF)* → **(D)**
 - **81.** *(question page is missing from the PDF)* → **(C)**
 - **82.** *(question page is missing from the PDF)* → **(D)**
-
+- 
 - **83.** What is the speaker mainly discussing? → **(B)** A performance incentive
 - **84.** Who is the speaker most likely addressing? → **(D)** Sales professionals
 - **85.** What does the speaker mean when she says, "that still wasn't good enough"? → **(A)** An employee achieved better results.
-
+- 
 - **86.** What type of business most likely is Digital Solutions? → **(B)** A software developer
 - **87.** Why has the firm's stock value risen? → **(A)** Its product has been very successful.
 - **88.** What does the speaker say will happen next month? → **(C)** An application will be released.
-
+- 
 - **89.** According to the speaker, what did the company recently do? → **(C)** Joined with another firm
 - **90.** What will probably happen in October? → **(A)** Personnel will begin working.
 - **91.** What does the speaker imply when he says, "The marketing team isn't able to access some records"? → **(B)** A job should not be postponed.
-
+- 
 - **92.** Why is the speaker calling? → **(B)** To change an earlier order
 - **93.** What does Music Central need? → **(C)** Additional speakers
 - **94.** What is the listener asked to do this afternoon? → **(A)** Send a revised statement
-
+- 
 - **95.** Why is Greg Henderson unavailable? → **(C)** He is visiting a production plant.
 - **96.** Look at the graphic. What type of device is 0 the Flow S60? → **(B)** An air purifier
 - **97.** What will the speaker distribute? → **(A)** Manuals
-
+- 
 - **98.** What does the speaker mention about the information booth? → **(D)** It is located in a hotel.
 - **99.** Which month will the company offer a discount? → **(B)** May
 - **100.** Look at the graphic. Which stop will be temporarily inaccessible? → **(C)** Stop 3

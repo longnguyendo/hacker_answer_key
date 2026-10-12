@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What task has the woman been assigned? → **(A)** Planning an event
 - **33.** What does the man request the woman do? → **(B)** Consider a different date
 - **34.** What does the man offer to do? → **(D)** Message some colleagues
-
+- 
 - **35.** Who most likely is the man? → **(C)** A box office attendant
 - **36.** What does the woman ask the man about? → **(B)** The availability of a showing
 - **37.** What does the man say about Andy Baker? → **(C)** He will respond to some inquiries.
-
+- 
 - **38.** Where does the man most likely work? → **(B)** At a repair shop
 - **39.** What does the man suggest the woman do? → **(A)** Bring a device to a business
 - **40.** What does the man mean when he says, "let me transfer you to Robert now"? → **(D)** He is unable to set up an appointment.
-
+- 
 - **41.** What are the speakers mainly discussing? → **(B)** A corporate regulation
 - **42.** What does the woman ask the man about? → **(A)** The reason for a change
 - **43.** What did the woman do last week? → **(A)** Talked with a manager
-
+- 
 - **44.** Where does the conversation probably take place? → **(B)** At a library
 - **45.** What suggestion does the man make? → **(C)** Going to another area
 - **46.** What information does the man need? → **(D)** An identification number
-
+- 
 - **47.** Why did the man call the woman? → **(C)** To inquire about a piece of gear
 - **48.** What does the woman mention about racquet grips? → **(C)** They come in various types.
 - **49.** What will the man probably do this afternoon? → **(B)** Browse some items
-
+- 
 - **50.** What problem does the woman describe? → **(C)** She does not have a day planner.
 - **51.** What does the woman allow the man to do? → **(D)** Review her personal belongings
 - **52.** What detail does the man provide? → **(A)** A meeting location
-
+- 
 - **53.** Where is the conversation most likely taking place? → **(C)** In a television studio
 - **54.** Why does the man say, "you're familiar § with this dish"? → **(D)** To express agreement regarding an ingredient
 - **55.** What will the man most likely do next? → **(A)** Explain food differences
-
+- 
 - **56.** What department does the man work in? → **(D)** Research
 - **57.** What does the man imply when he says, 63. "I requested a deadline extension"? → **(C)** He will appear at a gathering.
 - **58.** What does the woman offer to do? → **(B)** Sign a colleague up for an event
-
+- 
 - **59.** What does the team leader want the man to do? → **(C)** Present some diagrams
 - **60.** Why is the man worried? → **(A)** A process may take too long.
 - **61.** What does the man ask the woman to do? → **(C)** Share a template
-
+- 
 - **62.** Where most likely do the speakers work? → **(D)** At a staffing agency
 - **63.** What is implied about South Bend Corporation? → **(D)** It hired a business in the past.
 - **64.** How long will the speakers have to complete a task? → **(B)** Four weeks
-
+- 
 - **65.** What problem does the woman mention? → **(D)** An assignment has not been finished.
 - **66.** What kind of event will be held next month? → **(A)** A product release
 - **67.** Look at the graphic. Which product is not covered by the coupon? → **(D)** Body wash
-
+- 
 - **68.** What does the man ask the woman about? → **(C)** Whether an assessment is finished
 - **69.** What was the woman responsible for? → **(A)** Conducting an examination
 - **70.** Look at the graphic. Which county has III been recommended? → **(C)** Vaughn County
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Where does the listener probably work? → **(C)** At a financial firm
 - **72.** What will the speaker do on Monday? → **(D)** Give a presentation
 - **73.** What information does the speaker ask for? → **(A)** Restaurant recommendations
-
+- 
 - **74.** At what event is the speech being given? → **(B)** A product launch party
 - **75.** Why does the speaker praise Patricia Sanderson? → **(C)** She suggested a device feature.
 - **76.** What will most likely happen next? → **(D)** A video will be played.
-
+- 
 - **77.** What did the listener do on Thursday? → **(C)** Participated in an interview
 - **78.** What was the CEO impressed with? → **(A)** A proposal to boost sales
 - **79.** What does the speaker mean when she Hi says, "the current manager will be retiring in three weeks"? → **(B)** A decision must be made quickly.
-
+- 
 - **80.** Where most likely are the listeners? → **(C)** At a manufacturing plant
 - **81.** According to the speaker, what has been changed? → **(B)** The order of a tour
 - **82.** What are listeners instructed to do? → **(A)** Avoid touching equipment
-
+- 
 - **83.** What is the message mainly about? → **(B)** A recent critique
 - **84.** Why does the speaker say, "Ms. Clay has very high standards"? → **(B)** To express anticipation
 - **85.** What does the speaker ask the listener to do? → **(C)** Post a review online
-
+- 
 - **86.** What is the advertisement mainly about? → **(D)** A musical contest
 - **87.** What does the speaker say about the judges? → **(C)** They will be changed each week.
 - **88.** What does the speaker say is available on the Web site? → **(B)** A venue list
-
+- 
 - **89.** What is mentioned about the previous speakers? → **(C)** They gave stimulating lectures.
 - **90.** What will the speaker talk about? → **(B)** The influence of literature
 - **91.** Who is Jack Coyle? → **(A)** An author
-
+- 
 - **92.** Who is the speaker most likely addressing? → **(C)** Shop employees
 - **93.** Look at the graphic. Where has the display been set up? → **(B)** In Aisle 2
 - **94.** According to the speaker, what will be announced tomorrow? → **(A)** The dates of a renovation project
-
+- 
 - **95.** What did the speaker do yesterday? → **(B)** Looked at some data
 - **96.** Look at the graphic. Which branch does A the graph refer to? → **(B)** Albany
 - **97.** What will most likely happen next? → **(C)** A document will be distributed.
-
+- 
 - **98.** What happened last month? → **(C)** A project was started.
 - **99.** Why is a change being made? → **(D)** To accommodate time constraints
 - **100.** Look at the graphic. Which step was Ull removed from a work process? → **(B)** Discuss plan with team leader

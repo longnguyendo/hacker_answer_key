@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What event is taking place? → **(C)** A charity function
 - **33.** What information does the man ask the woman for? → **(A)** Her company's name
 - **34.** What will the man most likely do next? → **(D)** Escort a guest ( Đưa khách đến )
-
+- 
 - **35.** What are the speakers mainly discussing? → **(D)** A company regulation
 - **36.** What is implied about Samantha? → **(B)** She doesn't work in the technology department.
 - **37.** What does the woman say about the company's partners? → **(C)** Some have offices around the world.
-
+- 
 - **38.** What is the topic of the conversation? → **(C)** Computer equipment
 - **39.** How will the office manager most likely use the funds? → **(A)** To buy replacement displays
 - **40.** What does the man say he can do? → **(D)** Ask employees for their opinions
-
+- 
 - **41.** What problem does the woman identify? → **(C)** Her car needs to be fixed.
 - **42.** What solution does the man suggest? → **(C)** Riding with someone else
 - **43.** What does the woman inquire about? → **(A)** Whether she can be picked up
-
+- 
 - **44.** Why will the speakers meet with a Fieldstone Incorporated representative? → **(B)** They will talk about a schedule.
 - **45.** Why does the man say, "I'm helping out during the early stages"? → **(C)** To correct the woman's assumption
 - **46.** Who is Jenna Adams? → **(D)** A project manager
-
+- 
 - **47.** Why did the woman visit the office? → **(C)** To check on a program
 - **48.** Why is the man pleased? → **(C)** Some software works well.
 - **49.** What will the man most likely do next week? → **(A)** Train some personnel
-
+- 
 - **50.** Where most likely are the speakers? → **(D)** At a beauty salon
 - **51.** What does the woman want to do? → **(B)** Make a purchase
 - **52.** What does the man say about Nature's Touch brand? → **(D)** It is on sale.
-
+- 
 - **53.** What did the woman recently do? → **(D)** Reviewed a document
 - **54.** What problem does the woman mention? → **(C)** A company's sales have decreased.
 - **55.** What does the man imply when he says, "That's what I'm getting at"? → **(D)** The woman has identified a problem.
-
+- 
 - **56.** What does the man plan to do on Saturday? → **(C)** Attend an exhibit opening
 - **57.** What does the woman say about her friend? → **(B)** He has another commitment.
 - **58.** What will the man probably do before going to Mendez Gallery? → **(D)** Visit a dining establishment
-
+- 
 - **59.** What is the man inquiring about? → **(C)** The status of a delivery
 - **60.** Where most likely does the man work? → **(A)** At a research laboratory
 - **61.** Why does the man want to get the item soon? → **(D)** He requires it for his upcoming work.
-
+- 
 - **62.** What kind of event are the speakers planning? → **(D)** A company's anniversary celebration
 - **63.** According to the woman, what did some employees indicate they need? → **(B)** Appropriate food for a dietary restriction
 - **64.** Look at the graphic. Which establishment does the man say he will contact? → **(C)** Petra Sweets
-
+- 
 - **65.** What did the man do in advance? → **(D)** Completed a registration form
 - **66.** Look at the graphic. Which instructor teach the man's class? → **(B)** Shelley Marks
 - **67.** What does the woman offer to do? → **(B)** Provide location information
-
+- 
 - **68.** Why are the speakers in a rush? → **(A)** They have to participate in a work seminar.
 - **69.** Look at the graphic. When did a promotional event take place? → **(B)** In August
 - **70.** What must the speakers still complete? → **(C)** An outline of a report
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What is the purpose of the message? → **(B)** To report an issue
 - **72.** According to the speaker, what is a benefit of the Weyden Platinum? → **(C)** It is simple to move around.
 - **73.** What does the speaker recommend? → **(A)** Seeing a device in person
-
+- 
 - **74.** What kind of product is being advertised? → **(C)** A sports beverage
 - **75.** What does the speaker mention about Power Source? → **(D)** It includes several kinds of vitamins.
 - **76.** What does the speaker mean when he says, "This won't last for long"? → **(B)** A promotion is expected to be popular.
-
+- 
 - **77.** Where does Mr. Powell most likely work? → **(B)** At an architectural firm
 - **78.** What must the speaker do in the afternoon? → **(C)** Go to an emergency meeting
 - **79.** What does the speaker say Lori Fielding can do? → **(C)** Explain house plans
-
+- 
 - **80.** What is the broadcast mainly about? → **(A)** A local celebration
 - **81.** Why does the speaker say, "There's Hll something for everyone"? → **(B)** To encourage families to attend the event
 - **82.** According to the speaker, what will happen at 8 p.m.? → **(D)** A musical event will take place.
-
+- 
 - **83.** What does the speaker say listeners will do? → **(D)** Cook multiple dishes
 - **84.** What has the speaker placed on the counters for listeners? → **(B)** Recipe printouts
 - **85.** Why do listeners need a partner? → **(C)** There are limited cooking implements.
-
+- 
 - **86.** Who most likely is the listener? → **(C)** An artist
 - **87.** What does the speaker imply when she says, "It's hard to imagine a better choice"? → **(A)** A selected venue is ideal.
 - **88.** What does the speaker instruct the listener to do? → **(D)** Inform her of a decision
-
+- 
 - **89.** Who does the speaker say is coming to visit? → **(D)** A government inspector
 - **90.** Where will the managerial meeting take place? → **(D)** In the speaker's office
 - **91.** According to the speaker, what will be discussed during the meeting? → **(A)** Details of an upcoming visit
-
+- 
 - **92.** What is the speaker mainly discussing? → **(D)** A corporate merger
 - **93.** What does the speaker mention about Hanaway and Glarris Incorporated? → **(C)** It operates in Europe.
 - **94.** According to the speaker, what will happen over the next two months? → **(B)** A company will improve its internal communication.
-
+- 
 - **95.** What is the purpose of the message? → **(B)** To suggest a schedule change
 - **96.** What does the speaker ask the listener to do? → **(C)** Approve a plan
 - **97.** Look at the graphic. Which quantity on the Hi invoice has to be updated? → **(A)** 10
-
+- 
 - **98.** Who most likely are the listeners? → **(B)** Marketing professionals
 - **99.** Look at the graphic. Which expense will most likely be reduced? → **(B)** Printing
 - **100.** What will happen next? → **(A)** A report will be distributed.

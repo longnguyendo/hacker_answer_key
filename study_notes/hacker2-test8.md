@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** According to the woman, what needs to be modified? → **(B)** The details in a brochure
 - **33.** What has Sun Nam been tasked with? → **(C)** Leading a team
 - **34.** What does the woman say she will do later today? → **(D)** Speak to a colleague
-
+- 
 - **35.** What did the man buy on Monday? → **(A)** A dishware set
 - **36.** What problem does the man mention? → **(C)** Some merchandise is damaged.
 - **37.** What is the man told to do? → **(A)** Return to a service desk
-
+- 
 - **38.** Who most likely is the man? → **(D)** A chef
 - **39.** What does the man imply when he says, "I don't know what to tell you"? → **(B)** He cannot work any faster.
 - **40.** What does the woman suggest? → **(A)** Reducing a bill
-
+- 
 - **41.** What did the man do last month? → **(A)** Reviewed a document
 - **42.** Why is the woman excited? → **(D)** She has been selected for publication.
 - **43.** What does the man say about The Oxford Club? → **(C)** It is situated near the man's workplace.
-
+- 
 - **44.** What concern does the woman mention? → **(D)** She may have to miss an event.
 - **45.** What does the man recommend? → **(C)** Coming with family members
 - **46.** What does the man say he did last year? → **(B)** Picked a pumpkin
-
+- 
 - **47.** What does the woman ask permission to do? → **(A)** Take a personal day
 - **48.** What will happen on Thursday? → **(B)** A workshop will be conducted.
 - **49.** What does the man suggest? → **(C)** Rescheduling an appointment
-
+- 
 - **50.** What is the conversation mainly about? → **(B)** A way to raise money
 - **51.** According to the man, what technique does the organization use? → **(D)** Organizing special events
 - **52.** What does the man offer to do? → **(A)** Develop a plan
-
+- 
 - **53.** Where most likely is the conversation taking place? → **(D)** At a manufacturing plant
 - **54.** What does the woman mean when she says, "We're currently at capacity"? → **(D)** A building is out of space.
 - **55.** What is Josh asked to do? → **(C)** Relocate some items
-
+- 
 - **56.** Why is the man calling? → **(B)** To request a new credit card
 - **57.** What must the man do? → **(D)** Complete a form online
 - **58.** What does the man want to change? → **(B)** A spending restriction
-
+- 
 - **59.** What is mentioned about Mark Mason? → **(B)** He is employed at a factory.
 - **60.** Why did Mark Mason send an e-mail? → **(D)** To discuss an opening
 - **61.** What will probably happen after lunch? → **(A)** A staff member will be contacted.
-
+- 
 - **62.** What type of event will be catered? → **(C)** A product launch celebration
 - **63.** What does the man ask the woman to do? → **(D)** Inspect some goods
 - **64.** Look at the graphic. Which item was on sale? → **(B)** Bread plates
-
+- 
 - **65.** What did the man recently do? → **(C)** Presented a promotional idea
 - **66.** What problem is mentioned? → **(D)** A message is overly complicated.
 - **67.** Look at the graphic. When was a previous campaign released? → **(C)** In April
-
+- 
 - **68.** Who is Myra Lawrence? → **(A)** A university instructor
 - **69.** Look at the graphic. When will the man probably visit the botanical garden? → **(D)** On July 7
 - **70.** What is the man instructed to do? → **(C)** Select an online link
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Where most likely are the listeners? → **(B)** At a literary reading
 - **72.** What is the speaker's newest work about? → **(C)** Her personal experiences
 - **73.** What will most likely happen at 7:30 p.m.? → **(B)** Questions will be answered.
-
+- 
 - **74.** What kind of business is being advertised? → **(B)** A flower shop
 - **75.** According to the speaker, why should listeners visit Green Solutions? → **(A)** To browse through merchandise
 - **76.** How can listeners receive a price reduction? → **(C)** By mentioning a commercial
-
+- 
 - **77.** Who most likely is the speaker? → **(A)** A retail facility manager
 - **78.** What does the speaker mean when he says, "It wasn't an easy decision"? → **(B)** He considered many possible candidates.
 - **79.** What is mentioned about the booth? → **(A)** It is being used by a vendor.
-
+- 
 - **80.** What does the speaker mention about the commuter train system? → **(C)** It is disliked by some individuals.
 - **81.** What did Mary Stenos do on Wednesday? → **(A)** Met with media representatives
 - **82.** According to the speaker, why should listeners visit the Web site? → **(B)** To check the status of a project
-
+- 
 - **83.** What is being advertised? → **(A)** A staffing company
 - **84.** What is required to be represented by Ace Solutions? → **(C)** A background check
 - **85.** What does the speaker recommend that the listeners do? → **(D)** Take advantage of an offer
-
+- 
 - **86.** What type of business is Lifan Industries? → **(B)** An electronics producer
 - **87.** Why does the speaker say, "But that's not our final goal"? → **(D)** To introduce a new business plan
 - **88.** What most likely will happen next? → **(C)** New products will be revealed.
-
+- 
 - **89.** What facility does the teahouse include? → **(D)** An area for sleeping
 - **90.** What is mentioned about the teahouse? → **(B)** It hosted many notable events.
 - **91.** According to the speaker, what is the teahouse now used as? → **(B)** A destination for visiting tourists
-
+- 
 - **92.** What is the main topic of the message? → **(A)** An employment opportunity
 - **93.** What does the speaker imply when she says, "All of your previous parts have been in action movies"? → **(D)** She is aware of an objection to a proposal.
 - **94.** What will the speaker provide to the listener? → **(B)** A draft of a script
-
+- 
 - **95.** Who most likely is the speaker addressing? → **(D)** Business representatives
 - **96.** What is mentioned about Global Education? → **(D)** It has not participated in the event before.
 - **97.** Look at the graphic. Which is the largest room at the event? → **(A)** Room 101
-
+- 
 - **98.** What did the speaker fail to do? → **(B)** Review a financial record
 - **99.** Look at the graphic. How much will the speaker probably be refunded? → **(C)** $15.79
 - **100.** What will the speaker do on Friday? → **(A)** Submit a document

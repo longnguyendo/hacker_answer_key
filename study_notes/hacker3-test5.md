@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** Why is the man calling? → **(B)** To hire a car service
 - **33.** Where will Ms. Ming most likely go first upon arrival? → **(C)** To a hotel
 - **34.** What does the woman say she will do? → **(A)** Update a timetable
-
+- 
 - **35.** What are the speakers mainly discussing? → **(C)** Event catering
 - **36.** What does the woman mention about the menu? → **(A)** It includes a vegetarian selection.
 - **37.** What does the woman ask the man about? → **(D)** Beverage options
-
+- 
 - **38.** Who most likely is the woman? → **(C)** A receptionist
 - **39.** What does the woman ask for? → **(A)** An insurance card
 - **40.** According to the woman, what is a benefit of the new system? → **(C)** Information will be shared.
-
+- 
 - **41.** What is the purpose of the call? → **(D)** To propose a business deal
 - **42.** What does the woman offer to do? → **(A)** Visit a store
 - **43.** What does the man ask about? → **(A)** A production capacity
-
+- 
 - **44.** According to the woman, what does the supervisor want to do? → **(C)** Look over some plans
 - **45.** What problem does the man mention? → **(A)** A task is taking too long.
 - **46.** Why does the man say, "I'll e-mail you the presentation materials in a minute"? → **(C)** To accept an offer of help
-
+- 
 - **47.** What are the speakers mainly discussing? → **(D)** A future exhibition
 - **48.** What does Brian imply about Hall C? → **(C)** It is bigger than another area.
 - **49.** Why is the woman concerned? → **(D)** A schedule might be tight.
-
+- 
 - **50.** What did the woman do last week? → **(A)** Finished taking a class
 - **51.** What does the man ask the woman to do? → **(D)** Respond to some questions
 - **52.** What will the man probably do after 2 p.m.? → **(A)** Get in touch with the woman again
-
+- 
 - **53.** Who most likely is the woman? → **(C)** A produce vendor
 - **54.** What does the man mean when he says, "My blog gets a lot of visitors"? → **(D)** An advertising method is effective.
 - **55.** What will the woman probably do next? → **(D)** Speak to an event organizer
-
+- 
 - **56.** What is scheduled to take place tomorrow? → **(D)** A community festival
 - **57.** According to the man, what has the woman agreed to do? → **(C)** Set up some booths
 - **58.** What does the man ask the woman to do? → **(B)** Replace another worker
-
+- 
 - **59.** Where do the speakers most likely work? → **(B)** At a spa
 - **60.** Why does the woman say, "Don't we have something like that near the entrance"? → **(D)** To disagree with a suggestion
 - **61.** What does the woman suggest? → **(A)** Looking for artwork online
-
+- 
 - **62.** What type of business do the speakers probably work for? → **(B)** A vehicle rental agency
 - **63.** What does the woman propose? → **(A)** Asking a worker to make a delivery
 - **64.** What does the man request? → **(A)** A notification upon arrival
-
+- 
 - **65.** Look at the graphic. Where is the observation deck located? → **(B)** In Coastal Rest Stop
 - **66.** What does the woman say about the boardwalk? → **(A)** It will be crowded tomorrow.
 - **67.** How much of a parking fee discount is offered to local residents? → **(D)** 25 percent
-
+- 
 - **68.** What problem does the woman mention? → **(B)** A mark has been made on a rug.
 - **69.** Look at the graphic. Who booked the room for a client meeting? → **(C)** Brad Derby
 - **70.** What will the man probably do next? → **(A)** Collect some documents
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Where does the speaker most likely work? → **(A)** At a financial institution
 - **72.** How much of a discount can some customers receive? → **(B)** 10 percent
 - **73.** What is the listener instructed to do? → **(B)** Complete an online form
-
+- 
 - **74.** What is the purpose of the speech? → **(A)** To introduce an employee
 - **75.** According to the speaker, what was Mr. Chao in charge of? → **(D)** Running an advertising campaign
 - **76.** What has the company done recently? → **(C)** Increased its earnings
-
+- 
 - **77.** What is the announcement mainly about? → **(D)** An event promotion
 - **78.** What does the speaker say people will be excited to do? → **(D)** Meet an author
 - **79.** What does the speaker suggest listeners do? → **(B)** Download a program
-
+- 
 - **80.** What industry does the speaker most likely work in? → **(A)** Manufacturing
 - **81.** Why does the speaker say, "Elevated Time sells its watches in over 50 countries"? → **(D)** To highlight the significance of a deal
 - **82.** What does the speaker expect to do? → **(C)** Continue a business relationship
-
+- 
 - **83.** Who most likely is the speaker? → **(D)** A government employee
 - **84.** What was the speaker responsible for? → **(B)** Creating regulations
 - **85.** What does the speaker say about the party? → **(B)** He did not know about it.
-
+- 
 - **86.** Where most likely are the listeners? → **(C)** At a sports facility
 - **87.** Why does the speaker say, "That area must be kept clear for emergency vehicles"? → **(A)** To explain a request
 - **88.** What are listeners asked to do after the event? → **(A)** Clean up a venue
-
+- 
 - **89.** According to the speaker, what will be opening this week? → **(C)** An artist workspace
 - **90.** What is mentioned about Wentworth Warehouse? → **(A)** It was converted into housing.
 - **91.** What will listeners probably hear next? → **(D)** An interview
-
+- 
 - **92.** According to the speaker, what did the listener do yesterday? → **(C)** Talked to a colleague
 - **93.** What is Victoria Styles willing to do? → **(A)** Lead an orientation session
 - **94.** Look at the graphic. What department does Victoria Styles work in? → **(D)** Research and Development
-
+- 
 - **95.** Look at the graphic. When will the ticket holder be permitted to board the vessel? → **(A)** At 3:10 p.m.
 - **96.** What is the cause of the delay? → **(A)** A vehicle broke down.
 - **97.** What are listeners asked to do? → **(B)** Read a document
-
+- 
 - **98.** Why does the speaker thank the listeners? → **(D)** A task was finished ahead of schedule.
 - **99.** Look at the graphic. When will the test HI most likely be conducted? → **(C)** On Thursday
 - **100.** What did Charlotte Cruz do this morning? → **(B)** Contacted another department

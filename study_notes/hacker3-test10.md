@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What problem are the speakers discussing? → **(C)** There is not enough seating.
 - **33.** What does the man suggest? → **(A)** Removing a display container
 - **34.** What will the speakers most likely do this evening? → **(C)** Reorganize a space
-
+- 
 - **35.** Why is the woman calling the man? → **(D)** To respond to a message
 - **36.** What needs to be repaired? → **(D)** A building's roof
 - **37.** According to the man, what did a representative fail to do? → **(B)** Provide an estimate
-
+- 
 - **38.** According to the woman, what happened last Wednesday? → **(D)** A staff member started in a new role.
 - **39.** When will a meeting begin? → **(A)** At 3:00 p.m.
 - **40.** What does the woman suggest? → **(A)** Calling later
-
+- 
 - **41.** What concern does the woman mention? → **(C)** Insufficient items were ordered.
 - **42.** How many new computers are required for interns? → **(D)** 20
 - **43.** What task does the woman want carried out? → **(B)** Deleting some records
-
+- 
 - **44.** Who most likely are the speakers? → **(D)** Maintenance staff
 - **45.** Why is the woman unable to help? → **(B)** She is no longer on duty.
 - **46.** According to the man, what will happen this afternoon? → **(A)** A meeting with the press will be held.
-
+- 
 - **47.** What does the woman want to do? → **(C)** Reserve a venue
 - **48.** What is mentioned about the facilities? → **(D)** They will be examined after use.
 - **49.** What does the man mean when he says, "There's a convenience store one block down Harvest Street"? → **(B)** A retailer sells required supplies.
-
+- 
 - **50.** Why has the man visited the woman's office? → **(D)** To ask about insurance
 - **51.** What did the man recently do? → **(C)** Went to an event
 - **52.** What does the woman encourage the man to do? → **(C)** Use a taxi service
-
+- 
 - **53.** What is the factory owner able to do? → **(B)** Arrange reasonable shipping rates
 - **54.** Where will the man most likely conduct an inspection? → **(A)** In India
 - **55.** What did the woman do yesterday? → **(C)** Participated in a videoconference
-
+- 
 - **56.** What is the woman trying to do? → **(C)** Set up a service
 - **57.** Why does the man mention city zoning laws? → **(B)** To justify denying a request
 - **58.** What will the woman most likely do next? → **(D)** Contact another company
-
+- 
 - **59.** What problem does Cathy inform Mr. Williams about? → **(B)** A document is missing.
 - **60.** What does the woman mean when she says, "I think that will do it for me, Chris"? → **(D)** She is ready for Chris to end a meeting.
 - **61.** What will be sent by next Wednesday? → **(B)** Interview results
-
+- 
 - **62.** How can the woman find the codes? → **(C)** By accessing a Web site
 - **63.** Look at the graphic. Which level will the airline promote in the new advertisement? → **(C)** Gold Level
 - **64.** What does the man offer to do? → **(A)** Share a report
-
+- 
 - **65.** Look at the graphic. Which floor are the speakers currently on? → **(A)** The 2nd Floor
 - **66.** Why is the gym closed today? → **(B)** New machines are being installed.
 - **67.** What does the woman imply about her colleague? → **(B)** He needs assistance with a device.
-
+- 
 - **68.** Who is Donald Powell? → **(A)** A department manager
 - **69.** Look at the graphic. Where will the sign most likely be placed? → **(C)** In an administration office
 - **70.** What will the man distribute on May 1? → **(D)** Parking passes
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What type of event will take place in February? → **(D)** A charity event
 - **72.** What does the speaker ask the listeners to do? → **(B)** Select clothing items
 - **73.** What will the speaker probably do later today? → **(A)** Review submissions
-
+- 
 - **74.** What is being advertised? → **(D)** A real estate agency
 - **75.** What does the company specialize in? → **(C)** Finding homes along a coastline
 - **76.** According to the speaker, how can listeners acquire more information? → **(A)** By calling a telephone number
-
+- 
 - **77.** Why will a policy be changed? → **(D)** To improve workplace security
 - **78.** What does the speaker imply when he says, "but you don't have anything to worry about"? → **(B)** The uniform will be informal.
 - **79.** What does the speaker request that listeners do? → **(C)** Write down some information
-
+- 
 - **80.** According to the speaker, what can be found in the handbook? → **(C)** Some contact information
 - **81.** What will happen if staff submit daily reports more than a day late? → **(D)** Their yearly reviews will be affected.
 - **82.** According to the speaker, what should staff get permission for? → **(B)** Working additional hours
-
+- 
 - **83.** What does the speaker mention about the gift shop? → **(D)** It closes earlier than the main facility.
 - **84.** What does the speaker remind listeners about? → **(A)** An exit is inaccessible.
 - **85.** According to the speaker, what will happen next month? → **(C)** A temporary exhibit will be displayed.
-
+- 
 - **86.** What is the report mainly about? → **(D)** A competition
 - **87.** What has Spencer Incorporated agreed to do? → **(C)** Supply awards for an event
 - **88.** What does the speaker warn listeners about? → **(B)** Road construction
-
+- 
 - **89.** Where most likely do the listeners work? → **(A)** At an advertising company
 - **90.** What does the man ask Derek to do? → **(B)** Make a reservation
 - **91.** What does the speaker imply when he says, "Document Express printed the materials for our previous event in Ottawa"? → **(C)** A company should be hired again.
-
+- 
 - **92.** What is the speaker mainly discussing? → **(B)** A health program
 - **93.** Why does the speaker say, "You'll probably (10 feel a lot better"? → **(C)** To encourage participation
 - **94.** What does the speaker recommend that listeners do tomorrow? → **(D)** Sign up for a membership
-
+- 
 - **95.** Why is the speaker calling? → **(B)** To answer a question
 - **96.** Look at the graphic. Which flooring type did the listener mention? → **(D)** Hardwood
 - **97.** According to the speaker, how can the listener get information about the materials? → **(C)** By visiting a Web site
-
+- 
 - **98.** According to the speaker, what will happen tomorrow? → **(A)** A facility will reopen.
 - **99.** Look at the graphic. Which number should guests dial to request towels or pillows? → **(C)** 7
 - **100.** What will be offered to guests this week? → **(B)** Free meals

@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What industry do the speakers most likely work in? → **(C)** Publishing
 - **33.** According to the man, what did the speakers do this morning? → **(D)** Listened to lectures
 - **34.** What suggestion does the woman make? → **(A)** Going to another conference
-
+- 
 - **35.** Where most likely is the conversation taking place? → **(A)** At a construction company
 - **36.** What does the woman say about the training seminars? → **(C)** They are held at nearby locations.
 - **37.** Why does the man say, "So, I won't be traveling on a regular basis"? → **(C)** To confirm a point
-
+- 
 - **38.** Who most likely is the man? → **(B)** A public transport driver
 - **39.** What problem has the man identified? → **(C)** A lock cannot be fastened.
 - **40.** What does the woman inquire about? → **(A)** When another bus will arrive
-
+- 
 - **41.** Where most likely do the speakers work? → **(A)** At a financial institution
 - **42.** What is suggested about the mobile application? → **(D)** It is not yet available to the public.
 - **43.** What is the woman told to do? → **(C)** Provide a status update
-
+- 
 - **44.** What is the problem? → **(D)** A product is not in stock.
 - **45.** When did the man purchase some curtains? → **(C)** Three weeks ago
 - **46.** What does the woman mean when she lUl says, "it's not all bad news"? → **(B)** A comparable option is available.
-
+- 
 - **47.** According to the woman, what is located near Freemont Park? → **(C)** A government building
 - **48.** What does the woman inquire about? → **(D)** The purpose of a visit
 - **49.** What is the man planning to do on Saturday? → **(C)** Renew a license
-
+- 
 - **50.** Who most likely are the men? → **(C)** Research participants
 - **51.** What is mentioned about the computer manual? → **(D)** It lacks clarity at certain parts.
 - **52.** What do the men suggest? → **(A)** Using more images
-
+- 
 - **53.** Why have customers made complaints? → **(C)** A process takes too long.
 - **54.** What does the man say about the machines? → **(B)** They will cut down on an expense.
 - **55.** What does the woman suggest? → **(C)** Mentioning an idea to a supervisor
-
+- 
 - **56.** Where most likely does the woman work? → **(B)** At a newspaper company
 - **57.** What does the man want to learn more about? → **(A)** A forthcoming set of articles
 - **58.** What will most likely happen on Tuesday? → **(C)** An interview will be conducted.
-
+- 
 - **59.** Why is the man calling? → **(B)** To share a meeting outcome
 - **60.** What does the woman want to discuss? → **(C)** Delegating a task
 - **61.** What does the man agree to do when he returns? → **(A)** Organize a gathering
-
+- 
 - **62.** What is the problem? → **(D)** An appliance gets too warm.
 - **63.** What does the man mean when he says, "We'd better play it safe"? → **(C)** He wants a product redesigned.
 - **64.** What does the woman suggest? → **(A)** Delaying a release date
-
+- 
 - **65.** What is the conversation mainly about? → **(C)** A change in leadership
 - **66.** What is the man planning to do? → **(B)** Announce a decision to personnel
 - **67.** Look at the graphic. Which application will (M,) be edited? → **(B)** DocX
-
+- 
 - **68.** Why does the woman plan to buy Orange Blast soda? → **(B)** The store has a special offer.
 - **69.** Look at the graphic. Which ingredient is ill the man trying to avoid? → **(D)** Sugar
 - **70.** What does the man request the woman do? → **(D)** Purchase a different beverage
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** Where most likely are the listeners? → **(D)** At an awards ceremony
 - **72.** What is the speaker's job? → **(B)** A chef
 - **73.** What does the speaker say about Mali Kaya? → **(C)** She is a close friend.
-
+- 
 - **74.** Why is the speaker calling? → **(A)** To discuss a draft
 - **75.** What will most likely happen on August 20? → **(C)** A book will be published.
 - **76.** What does the speaker mean when she HI says, "I don't think it'll take much time"? → **(B)** She feels the problem can be easily fixed.
-
+- 
 - **77.** What type of business is Augusta? → **(C)** A moving company
 - **78.** What is offered to customers for an additional charge? → **(D)** Packing assistance
 - **79.** Why would listeners visit a Web site? → **(B)** To acquire a coupon
-
+- 
 - **80.** What is the problem? → **(C)** A product got negative comments.
 - **81.** What was Capital Group hired to do? → **(B)** Conduct market research
 - **82.** What has the speaker decided to do? → **(D)** Terminate a project
-
+- 
 - **83.** What is the main topic of the news report? → **(D)** A corporate takeover
 - **84.** What does the speaker imply when she Hi says, "This isn't that significant of a development, though"? → **(D)** A feature is offered by other companies.
 - **85.** Who is Jonathon Starr? → **(B)** An online business expert
-
+- 
 - **86.** Why is the speaker calling? → **(C)** She is confirming a booking.
 - **87.** According to the message, what will Ms. Forbes need to do? → **(A)** Send a document
 - **88.** What is implied about Brent Stewart? → **(B)** He works for a rental agency.
-
+- 
 - **89.** What is the announcement mainly about? → **(A)** Driving tips for winter
 - **90.** What does the speaker recommend? → **(B)** Using seasonal tires
 - **91.** What is a feature of the application? → **(C)** It transmits a vehicle's location.
-
+- 
 - **92.** What does the speaker say about Charlottesville Chocolates? → **(B)** It is a major regional producer.
 - **93.** What distinguishes Charlottesville Chocolates from its competitors? → **(A)** Its production methods
 - **94.** Look at the graphic. When will the seed A harvesting room be visited? → **(A)** At 8:00 a.m.
-
+- 
 - **95.** Why is the speaker calling? → **(D)** To clarify a request
 - **96.** Look at the graphic. What service is the HI coupon valid for? → **(C)** Foot massage
 - **97.** Why does the speaker need the man's decision quickly? → **(D)** To make a staffing decision
-
+- 
 - **98.** Why does the speaker thank Kendall Construction? → **(D)** It completed a project early.
 - **99.** Look at the graphic. Which exhibit is not a permanent one? → **(D)** Victorian Architecture
 - **100.** What are listeners asked to do? → **(B)** Complete a questionnaire

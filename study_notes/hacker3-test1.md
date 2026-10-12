@@ -19,51 +19,51 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **32.** What most likely is the man's occupation? → **(D)** A journalist
 - **33.** What does the woman say about Arnold Smith? → **(A)** He was recently promoted.
 - **34.** What does the man ask the woman to do? → **(C)** Provide some feedback
-
+- 
 - **35.** Why is the woman calling? → **(A)** To request a service
 - **36.** What does the woman want to avoid doing? → **(C)** Operating her vehicle
 - **37.** What does the man ask the woman about? → **(A)** Whether she reported an accident
-
+- 
 - **38.** Where most likely does the man work? → **(B)** At a gallery
 - **39.** What is implied about the woman? → **(B)** She has not had an exhibit before.
 - **40.** When will the show most likely begin? → **(A)** On August 20
-
+- 
 - **41.** Why have the speakers been busy? → **(A)** A company has gotten multiple complaints.
 - **42.** What does Lena say recently happened? → **(D)** A customer lost some data.
 - **43.** What does the man offer to do? → **(B)** Pay for a meal
-
+- 
 - **44.** What did the woman do last week? → **(C)** Bought some bedding
 - **45.** What does the man imply when he says, "I can look up the transaction using the number"? → **(D)** A refund can be given.
 - **46.** What will the woman most likely do next? → **(A)** Find a credit card
-
+- 
 - **47.** Where most likely is the conversation taking place? → **(D)** At a clothing shop
 - **48.** What does the woman suggest? → **(C)** Selecting a different color
 - **49.** What will the man probably do next? → **(D)** Try on an item
-
+- 
 - **50.** What problem does the man mention? → **(C)** A show experienced technical difficulties.
 - **51.** What did the man do yesterday? → **(D)** Submitted a complaint
 - **52.** Why does the woman say, "we can provide you with a 20 percent discount"? → **(C)** To fulfill a request
-
+- 
 - **53.** What are the speakers mainly discussing? → **(C)** Choosing a candidate
 - **54.** What is Jamie currently working on? → **(D)** A marketing study
 - **55.** What will the woman probably do after the meeting? → **(A)** Contact an applicant
-
+- 
 - **56.** What does the man suggest? → **(C)** Funding professional development
 - **57.** According to the woman, what took place last Friday? → **(D)** An executive meeting
 - **58.** What does the woman ask the man to do? → **(B)** Research some amounts
-
+- 
 - **59.** Why does the woman place the call? → **(D)** To place a product order
 - **60.** Why does the woman say, "it will be a gift for her housewarming party"? → **(C)** To provide a reason for a request
 - **61.** What will the man probably do next? → **(B)** Input order details
-
+- 
 - **62.** Where most likely is the conversation taking place? → **(D)** At a trade fair
 - **63.** How is this year's event different from the previous one? → **(C)** More attendees are present.
 - **64.** What has the man promised to do? → **(D)** Distribute some documents
-
+- 
 - **65.** Why does the woman thank the man? → **(D)** He reminded her of an occasion.
 - **66.** What does the man propose doing? → **(A)** Using a meeting space
 - **67.** Look at the graphic. Which cake will the # man order? → **(C)** Carrot Cake
-
+- 
 - **68.** Where most likely does the man work? → **(D)** At a cosmetics retailer
 - **69.** What does the woman ask about? → **(A)** The location of an item
 - **70.** Look at the graphic. Which subway line did the woman take today? → **(A)** Line 1
@@ -73,39 +73,39 @@ Parts 2, 3, 4 and 7. Format: **question → (letter) correct answer**.
 - **71.** What did the speaker agree to do? → **(A)** Attend an event
 - **72.** What will happen at 6:30 on Saturday? → **(D)** A performance will begin.
 - **73.** What does the speaker want to do later today? → **(B)** Purchase some tickets
-
+- 
 - **74.** What is the problem? → **(D)** A competitor is offering a new service.
 - **75.** What does the speaker mention about the Web site? → **(D)** It is receiving fewer visitors.
 - **76.** What does the speaker imply when she says, "Our prices are already low"? → **(B)** She is doubtful about an idea.
-
+- 
 - **77.** What is the speaker advertising? → **(C)** A device operator
 - **78.** According to the speaker, how is EX3 different from competing products? → **(D)** It is easier to use.
 - **79.** What will customers receive if they register a product online? → **(B)** A complimentary item
-
+- 
 - **80.** What did the speaker recently do? → **(A)** Placed a product order
 - **81.** What does the speaker imply when he says, "I really can't believe it"? → **(D)** He is disappointed with a service.
 - **82.** What is suggested about The Blue House Restaurant's grand opening? → **(A)** It was delayed.
-
+- 
 - **83.** Where most likely.is the speaker? → **(C)** At a construction site
 - **84.** What are listeners advised to do? → **(D)** Check traffic conditions
 - **85.** What will most likely happen next? → **(B)** An interview will be conducted.
-
+- 
 - **86.** What is the purpose of the call? → **(D)** To report a security measure
 - **87.** What problem does the speaker mention? → **(B)** Transactions were made in two cities.
 - **88.** What does the speaker recommend the listener do? → **(A)** Examine a record
-
+- 
 - **89.** What is the announcement mainly about? → **(D)** A new company policy
 - **90.** When do security personnel arrive at the building? → **(A)** At 7:00 a.m.
 - **91.** What does the speaker say he will do this afternoon? → **(C)** Hand out a document
-
+- 
 - **92.** Who most likely is the speaker? → **(D)** A director
 - **93.** Look at the graphic. When will the speaker and Nancy Davis attend a session together? → **(C)** Wednesday
 - **94.** What is included in the e-mail sent by the speaker? → **(A)** Details about a role
-
+- 
 - **95.** What will the listeners do first? → **(D)** Watch an instructional video
 - **96.** Why should listeners go to the second floor of the building? → **(D)** To get some equipment
 - **97.** Look at the graphic. Which trail will the listeners use? → **(C)** Trail C
-
+- 
 - **98.** What department do the listeners most likely work in? → **(B)** Marketing
 - **99.** Look at the graphic. Which software product will the company stop selling? → **(C)** Clear Image Editor
 - **100.** What does the speaker ask the listeners to do? → **(D)** Prepare a proposal
